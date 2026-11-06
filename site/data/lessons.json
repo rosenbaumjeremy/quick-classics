@@ -1,0 +1,261 @@
+[
+ {
+  "id": "day-1",
+  "label": "Day 1",
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "year": 1813,
+  "minutes": 7,
+  "added": "2026-11-06",
+  "cards": [
+   {
+    "k": "story",
+    "t": "Five daughters and no inheritance",
+    "b": "The Bennets of Longbourn have five girls and an estate entailed to a male cousin. When Mr. Bennet dies, the family loses its home. So Mrs. Bennet has one mission: marry her daughters well. Then a rich bachelor, Mr. Bingley, rents the house next door."
+   },
+   {
+    "k": "story",
+    "t": "One insult starts everything",
+    "b": "At the local ball, Bingley falls for gentle Jane. His friend Darcy, even richer and far colder, refuses to dance with Elizabeth and calls her merely tolerable within her hearing. She laughs it off. But that single remark shapes everything she believes about him."
+   },
+   {
+    "k": "story",
+    "t": "A charming man tells a convenient story",
+    "b": "Handsome officer George Wickham tells Elizabeth that Darcy cheated him of an inheritance. She believes every word, because it confirms what she already feels. Meanwhile Bingley leaves suddenly for London, and Jane is quietly heartbroken."
+   },
+   {
+    "k": "story",
+    "t": "The worst proposal in English literature",
+    "b": "In Kent, Darcy suddenly declares his love, while dwelling on how far beneath him her family is. Elizabeth refuses him with fury. She accuses him of wrecking Jane's happiness and ruining Wickham, and says no manner of his could have won her."
+   },
+   {
+    "k": "story",
+    "t": "The letter that changes everything",
+    "b": "Darcy answers in writing. He explains he thought Jane didn't care for Bingley, and reveals the truth about Wickham: a spendthrift who tried to elope with Darcy's fifteen-year-old sister for her fortune. Elizabeth rereads it until she sees her own blindness."
+   },
+   {
+    "k": "quote",
+    "t": "The turning point",
+    "q": "Till this moment I never knew myself.",
+    "b": "Elizabeth, after reading Darcy's letter. The cleverest person in the book realizes her judgment was driven by vanity."
+   },
+   {
+    "k": "story",
+    "t": "Seeing him at home",
+    "b": "Touring Derbyshire, Elizabeth visits Darcy's estate, Pemberley, believing him away. His housekeeper praises him as the kindest master alive. Then Darcy appears, gracious and warm, and treats her uncle from trade with real respect. He has taken her words to heart."
+   },
+   {
+    "k": "story",
+    "t": "Scandal, and a secret rescue",
+    "b": "Lydia, the youngest Bennet, runs off with Wickham, threatening to disgrace the whole family. Darcy quietly tracks them down, pays Wickham's debts and arranges the marriage, then insists no one be told. Elizabeth learns the truth by accident."
+   },
+   {
+    "k": "story",
+    "t": "The second proposal",
+    "b": "Bingley returns and marries Jane. Darcy's aunt, Lady Catherine, storms in to forbid a match with Elizabeth, who refuses to promise anything. That gives Darcy hope. He proposes again, humbly, and this time she says yes."
+   },
+   {
+    "k": "character",
+    "t": "Elizabeth Bennet",
+    "b": "Witty, independent and fearless with powerful people. Her flaw is pride in her own perceptiveness: she trusts her quick reads of people and builds clever arguments to defend them. Her growth is learning to doubt herself."
+   },
+   {
+    "k": "character",
+    "t": "Fitzwilliam Darcy",
+    "b": "Honorable, loyal and generous, hidden behind class snobbery and social awkwardness. His growth is learning that good manners are owed to everyone, not only to people of his rank."
+   },
+   {
+    "k": "character",
+    "t": "A gallery of marriages",
+    "b": "Austen shows every kind: the Bennets (attraction without respect), Charlotte and Mr. Collins (security without love), Lydia and Wickham (impulse without sense). Against them she sets Jane and Elizabeth, whose marriages rest on affection and esteem."
+   },
+   {
+    "k": "theme",
+    "t": "Both of them are proud. Both are prejudiced.",
+    "b": "It is tempting to cast Darcy as pride and Elizabeth as prejudice. Austen gives each both. His pride in rank creates prejudice against her family; her pride in her judgment creates prejudice against him."
+   },
+   {
+    "k": "theme",
+    "t": "Money is real, but not enough",
+    "b": "Austen never pretends money doesn't matter. Women of the gentry had almost no other route to security. Yet the book shows that marrying for money alone, or for attraction alone, leads to unhappiness."
+   },
+   {
+    "k": "theme",
+    "t": "Rank is not the same as worth",
+    "b": "Lady Catherine has the highest title and the worst manners. The Gardiners, who earn their living in trade, are the most truly well-bred people in the story. Character comes from conduct, not birth."
+   },
+   {
+    "k": "lesson",
+    "t": "Hold first impressions loosely",
+    "b": "Austen's first title for the novel was First Impressions. Elizabeth's whole mistake grows from one overheard remark. A first impression is a piece of data, not a verdict."
+   },
+   {
+    "k": "lesson",
+    "t": "Be suspicious of stories you want to believe",
+    "b": "Elizabeth never asks why a near-stranger shares such private grievances so fast. When a story flatters what you already feel, that is the moment to check it hardest."
+   },
+   {
+    "k": "lesson",
+    "t": "Intelligence doesn't cure bias",
+    "b": "Clever people can build better excuses for wrong conclusions. Elizabeth's wit made her mistake more convincing, not less. Self-knowledge is the real safeguard."
+   },
+   {
+    "k": "lesson",
+    "t": "Let criticism do its work",
+    "b": "Both lovers are changed by harsh words from the other. Each could have stayed defensive. Instead they asked whether the criticism was true, and grew."
+   },
+   {
+    "k": "lesson",
+    "t": "Change shows in what you do",
+    "b": "Darcy never announces he has reformed. He simply behaves better, and rescues Lydia without wanting credit. Judge growth, in others and yourself, by conduct when no one is keeping score."
+   },
+   {
+    "k": "lesson",
+    "t": "Neglect sends a bill later",
+    "b": "Mr. Bennet's ironic detachment is charming on the page and disastrous in life. Lydia's elopement is the cost of years of avoided responsibility."
+   },
+   {
+    "k": "lesson",
+    "t": "Humility makes love possible",
+    "b": "Neither could love the other while each was sure of being right. The happy ending arrives only after both admit they were wrong."
+   },
+   {
+    "k": "reflect",
+    "t": "Something to think about today",
+    "b": "Whom have you judged on a first impression? What would it take for you to read their side of the letter?"
+   }
+  ]
+ },
+ {
+  "id": "bonus-animal-farm",
+  "label": "Bonus lesson",
+  "title": "Animal Farm",
+  "author": "George Orwell",
+  "year": 1945,
+  "minutes": 7,
+  "added": "2026-11-06",
+  "cards": [
+   {
+    "k": "story",
+    "t": "An old pig's dream",
+    "b": "On Manor Farm, the prize boar Old Major gathers the animals one night. Humans, he says, steal the fruits of animal labor and kill them when they're no longer useful. He dreams of a world without masters, teaches them a rousing anthem, and dies three nights later."
+   },
+   {
+    "k": "story",
+    "t": "The rebellion nobody planned",
+    "b": "The farmer, Mr. Jones, is a neglectful drunk. One day he forgets to feed the animals, and they break into the store shed. Furious and hungry, they drive Jones and his men off the farm. They rename it Animal Farm and celebrate their freedom."
+   },
+   {
+    "k": "story",
+    "t": "Seven rules on the barn wall",
+    "b": "The cleverest pigs, Snowball and Napoleon, turn Old Major's ideas into a system called Animalism. They paint Seven Commandments on the barn: no animal shall wear clothes, sleep in a bed, drink alcohol or kill another animal, and all animals are equal."
+   },
+   {
+    "k": "story",
+    "t": "The milk goes missing",
+    "b": "The first harvest is the best ever, and the animals work joyfully. But the cows' milk quietly disappears, and so do the windfall apples. The pigs' spokesman, Squealer, explains that pigs need them for brainwork. Without them, he warns, Jones might come back. No one argues."
+   },
+   {
+    "k": "story",
+    "t": "Snowball is chased away",
+    "b": "Snowball, a brilliant speaker, champions a windmill to bring electricity and shorter workdays. Napoleon opposes it. At the decisive meeting, Napoleon whistles, and nine huge dogs he secretly raised from puppies chase Snowball off the farm. Napoleon abolishes the meetings."
+   },
+   {
+    "k": "story",
+    "t": "The windmill, and the scapegoat",
+    "b": "Days later, Napoleon announces the windmill was his idea all along. The animals work brutally hard to build it. When a storm wrecks it, Napoleon blames the absent Snowball. From then on, every failure, broken egg and missing item is blamed on the traitor."
+   },
+   {
+    "k": "story",
+    "t": "Terror in the yard",
+    "b": "Napoleon stages a purge. Animals confess to plotting with Snowball and the dogs tear their throats out on the spot. The survivors huddle in shock. When they check the barn wall, the rule against killing now says no animal shall kill another without cause."
+   },
+   {
+    "k": "story",
+    "t": "The horse who worked himself to death",
+    "b": "Boxer, the strongest and most loyal horse, answers every hardship by working harder and trusting Napoleon. When he collapses, the pigs say he's going to a hospital. The van that takes him belongs to a horse slaughterer. Squealer insists it was a misunderstanding."
+   },
+   {
+    "k": "story",
+    "t": "Pig and man, side by side",
+    "b": "Years pass. The pigs walk on two legs, wear clothes, drink whisky and sleep in beds. The Commandments are replaced by a single rule. At a dinner with neighboring farmers, the watching animals look from pig to man and can no longer tell which is which."
+   },
+   {
+    "k": "quote",
+    "t": "The final rule",
+    "q": "All animals are equal, but some are more equal than others.",
+    "b": "A paraphrase of the single rule that replaces the Commandments. Orwell turns the revolution's founding promise into a joke that exposes the new ruling class."
+   },
+   {
+    "k": "character",
+    "t": "Napoleon and Snowball",
+    "b": "Napoleon is a quiet, ruthless schemer who wins through force and secrecy; he stands for Stalin. Snowball is an energetic idealist with real ideas, recast as a villain after his exile; he stands for Trotsky. Orwell suggests neither offered the animals real freedom."
+   },
+   {
+    "k": "character",
+    "t": "Squealer, the voice of power",
+    "b": "Squealer can make black seem white. He uses statistics, false memories and fear of Jones's return to justify every betrayal. He represents propaganda, and he's often the most chilling character because he never needs violence. Words do his work."
+   },
+   {
+    "k": "character",
+    "t": "Boxer, Benjamin and the sheep",
+    "b": "Boxer's mottoes are to work harder and that Napoleon is always right; his loyalty is exploited to the end. Benjamin the donkey sees everything and does nothing. The sheep drown out debate with chanted slogans. Each shows a way ordinary people enable tyranny."
+   },
+   {
+    "k": "theme",
+    "t": "Power corrupts, step by step",
+    "b": "The pigs never seize total control in one move. They take the milk, then the decisions, then the rules, then lives. Each step seems small and is explained away. Orwell shows that tyranny usually grows through accepted exceptions."
+   },
+   {
+    "k": "theme",
+    "t": "Whoever controls words controls memory",
+    "b": "The Commandments are quietly rewritten at night. History is edited so Snowball was always a traitor. The animals can't read well and can't remember clearly, so they can't prove anything changed. Language and memory become tools of control."
+   },
+   {
+    "k": "theme",
+    "t": "A revolution betrayed",
+    "b": "Orwell, a socialist, wrote the book as a warning about the Soviet Union. His point isn't that change is pointless. It's that a revolution which hands power to a new elite, without accountability, ends by recreating the oppression it overthrew."
+   },
+   {
+    "k": "lesson",
+    "t": "Watch the small exceptions",
+    "b": "The milk and apples were the first sign. When the people in charge grant themselves a small privilege and explain it away, ask what it will become. Big abuses usually start as reasonable-sounding exceptions."
+   },
+   {
+    "k": "lesson",
+    "t": "Write down what was promised",
+    "b": "The pigs got away with rewriting the rules because no one kept a record. In a workplace, a group or a country, written commitments and good memory are protection. Keep the receipts."
+   },
+   {
+    "k": "lesson",
+    "t": "Loyalty must have limits",
+    "b": "Boxer's virtue, unquestioning devotion, became the instrument of his death. Loyalty to people or causes is admirable, but it has to be loyalty to what they do, not only to what they say."
+   },
+   {
+    "k": "lesson",
+    "t": "Cynicism isn't wisdom",
+    "b": "Benjamin understood what was happening and stayed silent, saying nothing would ever change. Seeing clearly is only half the job. Knowledge that never becomes action changes nothing."
+   },
+   {
+    "k": "lesson",
+    "t": "Beware the outside enemy story",
+    "b": "Every failure on the farm was blamed on Snowball, and the threat of Jones returning ended every argument. When leaders explain all problems through an enemy, it's often to avoid explaining their own decisions."
+   },
+   {
+    "k": "lesson",
+    "t": "Slogans are not thinking",
+    "b": "The sheep chant whenever debate begins, and the chant always wins. Simple slogans feel like clarity but often shut down the questions that matter. When a phrase replaces an argument, slow down."
+   },
+   {
+    "k": "lesson",
+    "t": "Freedom needs to be maintained",
+    "b": "The animals won their freedom in a single afternoon and lost it over years of inattention. Rights are kept by people who keep paying attention, keep asking questions and keep meeting together."
+   },
+   {
+    "k": "reflect",
+    "t": "Something to think about today",
+    "b": "Where in your own life do you rely on someone else's account of what was agreed? Which character would you honestly have been on Animal Farm?"
+   }
+  ]
+ }
+]

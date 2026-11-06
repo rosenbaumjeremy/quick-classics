@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Classics Stash</title>
+<meta name="description" content="Great books, one swipeable idea at a time.">
+<meta name="theme-color" content="#241a2e">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Manrope:wght@400;500;700;800&display=swap">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<main class="lib" id="lib">
+  <header>
+    <span class="eyebrow">A classic a day</span>
+    <h1>Classics Stash</h1>
+    <p class="sub">Great books, one swipeable idea at a time: the story, the people, the big ideas and what they can teach you.</p>
+  </header>
+  <div class="grid" id="grid"><p class="note">Loading the library…</p></div>
+</main>
+
+<div class="app" id="app" hidden>
+  <div class="top">
+    <div class="bars" id="bars" aria-hidden="true"></div>
+    <div class="meta"><button class="home" id="home">← Library</button><b id="section">Cover</b><span id="count">1 / 1</span></div>
+  </div>
+  <div class="stage" id="stage" aria-live="polite"></div>
+  <div class="controls">
+    <button id="prev" aria-label="Previous card">Back</button>
+    <button id="next" class="next">Next idea</button>
+  </div>
+  <div class="hint">Swipe left for the next idea, right to go back</div>
+</div>
+<script src="app.js"></script>
+<script src="offline.js"></script>
+</body>
+</html>
