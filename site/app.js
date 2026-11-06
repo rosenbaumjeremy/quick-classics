@@ -1,5 +1,5 @@
 "use strict";
-// Classics Stash: a library of books (home) and a swipeable deck of ideas per book (#<id>).
+// Quick Classics: a library of books (home) and a swipeable deck of ideas per book (#<id>).
 // Books live in data/lessons.json; a book's saved ideas are kept on the device (localStorage).
 const LABEL = {story:"The story", character:"Characters", theme:"Big idea", lesson:"Lesson", reflect:"Reflect", quote:"Key line", cover:"Today's classic"};
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -17,7 +17,7 @@ function renderLibrary(){
 
 function openDeck(l){
   book = l; deck = [{k:"cover"}, ...l.cards]; cur = 0;
-  try { saved = new Set(JSON.parse(localStorage.getItem("stash-saved-" + l.id) || "[]")); } catch(e) { saved = new Set(); }
+  try { saved = new Set(JSON.parse(localStorage.getItem("qc-saved-" + l.id) || "[]")); } catch(e) { saved = new Set(); }
   const stage = $("stage"), bars = $("bars"); stage.innerHTML = ""; bars.innerHTML = "";
   deck.forEach((c, i) => {
     const el = document.createElement("article");
@@ -38,10 +38,10 @@ function openDeck(l){
   });
   cards = [...stage.children]; barEls = [...bars.children];
   $("lib").hidden = true; $("app").hidden = false; document.body.classList.add("reading");
-  document.title = l.title + " · Classics Stash";
+  document.title = l.title + " · Quick Classics";
   show(0);
 }
-function closeDeck(){ $("app").hidden = true; $("lib").hidden = false; document.body.classList.remove("reading"); book = null; document.title = "Classics Stash"; }
+function closeDeck(){ $("app").hidden = true; $("lib").hidden = false; document.body.classList.remove("reading"); book = null; document.title = "Quick Classics"; }
 
 function show(n){
   cur = Math.max(0, Math.min(deck.length - 1, n));
@@ -60,7 +60,7 @@ $("stage").addEventListener("click", e => {
   const s = e.target.closest(".save"); if (!s) return;
   const i = +s.dataset.i; saved.has(i) ? saved.delete(i) : saved.add(i);
   s.setAttribute("aria-pressed", saved.has(i)); s.querySelector("span").textContent = saved.has(i) ? "Saved" : "Save idea";
-  try { localStorage.setItem("stash-saved-" + book.id, JSON.stringify([...saved])); } catch(err) {}
+  try { localStorage.setItem("qc-saved-" + book.id, JSON.stringify([...saved])); } catch(err) {}
 });
 
 // Swipe (touch or mouse drag). Styles are set through CSSOM, which the site's CSP allows.

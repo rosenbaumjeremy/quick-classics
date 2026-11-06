@@ -1,4 +1,4 @@
-# Classics Stash
+# Quick Classics
 
 Great books, one swipeable idea at a time. A static site: `site/` is the finished output,
 deployed by Cloudflare Workers Builds on every push to `main` (see `wrangler.jsonc`).
