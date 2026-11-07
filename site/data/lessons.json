@@ -5,33 +5,48 @@
   "title": "Pride and Prejudice",
   "author": "Jane Austen",
   "year": 1813,
-  "minutes": 7,
+  "minutes": 10,
   "added": "2026-11-06",
   "cards": [
    {
     "k": "story",
     "t": "Five daughters and no inheritance",
-    "b": "The Bennets of Longbourn have five girls and an estate entailed to a male cousin. When Mr. Bennet dies, the family loses its home. So Mrs. Bennet has one mission: marry her daughters well. Then a rich bachelor, Mr. Bingley, rents the house next door."
+    "b": "The Bennets of Longbourn, a country estate in Hertfordshire around 1800, have five daughters: sweet Jane, sharp-witted Elizabeth, bookish Mary, and silly Kitty and Lydia. By law the estate is entailed to the nearest male relative, a cousin they barely know, so when Mr. Bennet dies his wife and girls lose their home and most of their income. Nervous, loud Mrs. Bennet has one mission: marry her daughters well. Clever, lazy Mr. Bennet mostly mocks her from his library. Then news arrives that a rich young bachelor, Mr. Bingley, has rented nearby Netherfield Park."
    },
    {
     "k": "story",
     "t": "One insult starts everything",
-    "b": "At the local ball, Bingley falls for gentle Jane. His friend Darcy, even richer and far colder, refuses to dance with Elizabeth and calls her merely tolerable within her hearing. She laughs it off. But that single remark shapes everything she believes about him."
+    "b": "At the local ball, good-natured Bingley dances twice with Jane and is plainly charmed. He has brought his two snobbish sisters and his closest friend, Fitzwilliam Darcy, who owns a great estate in Derbyshire and ten thousand pounds a year. Darcy is handsome, proud and silent. Urged to dance with Elizabeth, he says within her hearing that she is tolerable, but not handsome enough to tempt him. Elizabeth tells the story to her friends with relish. The whole neighborhood decides Darcy is the most disagreeable man alive, and Elizabeth's opinion of him is fixed."
+   },
+   {
+    "k": "story",
+    "t": "Darcy starts to look again",
+    "b": "Over the following weeks Darcy finds himself noticing Elizabeth's fine eyes and quick wit, and he watches her far more than he speaks to her. When Jane falls ill on a rainy visit to Netherfield, Elizabeth walks three muddy miles to nurse her, scandalizing Bingley's sister Caroline, who wants Darcy for herself. In the drawing room Elizabeth spars with Darcy and teases his pride. She thinks he stares at her to find fault. In fact he is falling for her, and is alarmed by it, because her family is so far beneath his."
+   },
+   {
+    "k": "story",
+    "t": "A ridiculous proposal",
+    "b": "Mr. Collins arrives: the cousin who will inherit Longbourn. He is a pompous, groveling clergyman who endlessly quotes his patroness, the grand Lady Catherine de Bourgh, who happens to be Darcy's aunt. He has come to choose a Bennet wife as a kind of amends. He settles on Elizabeth and proposes in a speech mostly about his own convenience. She refuses. Her mother is furious; her father says he will never see Elizabeth again if she accepts. Within days Collins proposes to her practical friend Charlotte Lucas, who accepts him for the security of a home."
    },
    {
     "k": "story",
     "t": "A charming man tells a convenient story",
-    "b": "Handsome officer George Wickham tells Elizabeth that Darcy cheated him of an inheritance. She believes every word, because it confirms what she already feels. Meanwhile Bingley leaves suddenly for London, and Jane is quietly heartbroken."
+    "b": "A regiment of soldiers is quartered in town, and the youngest Bennet girls are giddy over the officers. The most charming is George Wickham, who tells Elizabeth he grew up on Darcy's estate as the steward's son, that old Mr. Darcy promised him a comfortable church position, and that the son cruelly denied it out of jealousy. Elizabeth believes every word, because it confirms what she already feels. She never stops to wonder why a near-stranger is sharing something so private. When Darcy and Wickham meet in the street, both change color."
+   },
+   {
+    "k": "story",
+    "t": "Bingley vanishes",
+    "b": "At the Netherfield ball the Bennet family embarrasses itself thoroughly: Mrs. Bennet loudly boasts that Jane will soon marry Bingley, Mary sings far too long, and Mr. Collins blunders up to Darcy uninvited. The next day the whole Netherfield party leaves for London. Caroline writes to Jane that they will not return, and hints that Bingley will marry Darcy's young sister, Georgiana. Jane, who never shows strong feeling, is quietly heartbroken. Elizabeth blames Caroline and Darcy. Jane goes to stay with relatives in London, where Caroline coldly snubs her."
    },
    {
     "k": "story",
     "t": "The worst proposal in English literature",
-    "b": "In Kent, Darcy suddenly declares his love, while dwelling on how far beneath him her family is. Elizabeth refuses him with fury. She accuses him of wrecking Jane's happiness and ruining Wickham, and says no manner of his could have won her."
+    "b": "In spring Elizabeth visits Charlotte, now Mrs. Collins, in Kent beside Lady Catherine's estate, where Darcy and his cousin Colonel Fitzwilliam are also staying. The colonel mentions that Darcy recently saved a friend from an imprudent marriage, and Elizabeth realizes he means Jane. That evening Darcy bursts in and declares his love, while dwelling on how much it degrades him to love a woman with her family. She refuses him with fury. She accuses him of wrecking Jane's happiness and ruining Wickham, and says no manner of his could ever have won her."
    },
    {
     "k": "story",
     "t": "The letter that changes everything",
-    "b": "Darcy answers in writing. He explains he thought Jane didn't care for Bingley, and reveals the truth about Wickham: a spendthrift who tried to elope with Darcy's fifteen-year-old sister for her fortune. Elizabeth rereads it until she sees her own blindness."
+    "b": "Next morning Darcy hands her a letter. He explains he separated Bingley from Jane because Jane seemed indifferent, and because the Bennet family behaves so badly in public. Then he tells the truth about Wickham: Wickham took three thousand pounds in place of the church position, squandered it, and then tried to elope with Darcy's fifteen-year-old sister to seize her thirty-thousand-pound fortune. Elizabeth rereads the letter again and again. Checking each claim against her own memory, she sees that Wickham's story never made sense, and that she believed it because she wanted to."
    },
    {
     "k": "quote",
@@ -42,17 +57,27 @@
    {
     "k": "story",
     "t": "Seeing him at home",
-    "b": "Touring Derbyshire, Elizabeth visits Darcy's estate, Pemberley, believing him away. His housekeeper praises him as the kindest master alive. Then Darcy appears, gracious and warm, and treats her uncle from trade with real respect. He has taken her words to heart."
+    "b": "In summer Elizabeth tours Derbyshire with her kind aunt and uncle, the Gardiners, who earn their living in trade. They visit Darcy's estate, Pemberley, believing him away. The house is beautiful and tasteful, and the housekeeper, who has known Darcy since he was four, praises him as the best master and kindest brother alive. Then Darcy appears unexpectedly. He is gracious and warm, invites her uncle to fish, and introduces Elizabeth to his shy sister. He has taken her harsh words to heart. Elizabeth begins to feel grateful, and then much more."
    },
    {
     "k": "story",
-    "t": "Scandal, and a secret rescue",
-    "b": "Lydia, the youngest Bennet, runs off with Wickham, threatening to disgrace the whole family. Darcy quietly tracks them down, pays Wickham's debts and arranges the marriage, then insists no one be told. Elizabeth learns the truth by accident."
+    "t": "Scandal",
+    "b": "A letter from Jane shatters the visit. Lydia, sixteen and wild, has run off with Wickham from the seaside town of Brighton, and there is no sign he means to marry her. In their world this would disgrace the whole family, and no respectable man would marry any of her sisters. Distraught, Elizabeth tells Darcy, and he leaves at once. She assumes she has lost him forever. Her father and uncle search London in vain. Then word comes that the couple has been found and will marry, on surprisingly cheap terms."
+   },
+   {
+    "k": "story",
+    "t": "A secret rescue",
+    "b": "Lydia and Wickham visit Longbourn, utterly unashamed. Lydia lets slip that Darcy was at her wedding. Elizabeth writes to her aunt and learns the truth: Darcy tracked the couple down, paid Wickham's debts, bought him an army commission and arranged the marriage, then insisted that no one be told. He did it, her aunt suspects, for Elizabeth. She is overwhelmed. The man she insulted has saved her family's reputation and asked for no credit, and she now feels sure he could never want to join himself to such a family."
+   },
+   {
+    "k": "story",
+    "t": "Bingley returns",
+    "b": "Bingley comes back to Netherfield with Darcy, who has confessed to his friend that he was wrong about Jane's feelings. Bingley proposes, Jane accepts, and the neighborhood calls them the luckiest couple in the world. Darcy stays grave and hard to read, and Elizabeth cannot tell whether he still cares for her. Then Lady Catherine arrives at Longbourn in a fury. She has heard a rumor that Elizabeth is engaged to her nephew, and she orders her to promise that she will never accept him."
    },
    {
     "k": "story",
     "t": "The second proposal",
-    "b": "Bingley returns and marries Jane. Darcy's aunt, Lady Catherine, storms in to forbid a match with Elizabeth, who refuses to promise anything. That gives Darcy hope. He proposes again, humbly, and this time she says yes."
+    "b": "Elizabeth refuses to promise anything. She is a gentleman's daughter, she says, and his equal. Lady Catherine storms off to complain to Darcy, which tells him exactly what he hoped. Walking with Elizabeth, he says that if her feelings are unchanged since spring, one word will silence him forever. She tells him they have changed completely. Each confesses how the other humbled them. Her stunned father gives his blessing once he learns what Darcy did for Lydia. Elizabeth and Darcy marry, settle at Pemberley, and welcome the Gardiners as dear friends."
    },
    {
     "k": "character",
@@ -132,53 +157,73 @@
   "title": "Animal Farm",
   "author": "George Orwell",
   "year": 1945,
-  "minutes": 7,
+  "minutes": 10,
   "added": "2026-11-06",
   "cards": [
    {
     "k": "story",
     "t": "An old pig's dream",
-    "b": "On Manor Farm, the prize boar Old Major gathers the animals one night. Humans, he says, steal the fruits of animal labor and kill them when they're no longer useful. He dreams of a world without masters, teaches them a rousing anthem, and dies three nights later."
+    "b": "On Manor Farm in England, the prize boar Old Major gathers the animals in the big barn one night. Their lives are miserable, laborious and short, he says, not because of nature but because humans take what they produce, give back bare survival, and slaughter them when they are no longer useful. Man is the only creature that consumes without producing. He dreams of a day when animals rule themselves, warns them never to copy human ways, and teaches them a stirring anthem, Beasts of England. Three nights later he dies peacefully in his sleep."
    },
    {
     "k": "story",
     "t": "The rebellion nobody planned",
-    "b": "The farmer, Mr. Jones, is a neglectful drunk. One day he forgets to feed the animals, and they break into the store shed. Furious and hungry, they drive Jones and his men off the farm. They rename it Animal Farm and celebrate their freedom."
+    "b": "For three months the pigs, the cleverest animals, quietly organize Major's ideas. Then the farmer, Mr. Jones, a neglectful drunk, goes on a binge and forgets to feed the animals. Starving, they break into the store shed, and when Jones and his men come at them with whips, the animals turn on them and drive them off the farm. Astonished at their own success, they burn the whips, harnesses and nose rings, rename the place Animal Farm, and sing Beasts of England until dawn."
    },
    {
     "k": "story",
     "t": "Seven rules on the barn wall",
-    "b": "The cleverest pigs, Snowball and Napoleon, turn Old Major's ideas into a system called Animalism. They paint Seven Commandments on the barn: no animal shall wear clothes, sleep in a bed, drink alcohol or kill another animal, and all animals are equal."
+    "b": "Two young boars take the lead: Snowball, quick, inventive and eloquent, and Napoleon, large, quiet and set on getting his own way. With Squealer, a pig so persuasive he could make black seem white, they turn Major's ideas into a system called Animalism. They paint Seven Commandments on the barn wall: anything on two legs is an enemy; no animal shall wear clothes, sleep in a bed, drink alcohol or kill another animal; and all animals are equal. Few animals read well, so the sheep reduce it all to a short slogan praising four legs over two, which they bleat endlessly."
    },
    {
     "k": "story",
     "t": "The milk goes missing",
-    "b": "The first harvest is the best ever, and the animals work joyfully. But the cows' milk quietly disappears, and so do the windfall apples. The pigs' spokesman, Squealer, explains that pigs need them for brainwork. Without them, he warns, Jones might come back. No one argues."
+    "b": "The first harvest is the best the farm has ever seen. The animals work joyfully, and Boxer, an enormous, loyal cart-horse, adopts a personal motto: he will work harder. The pigs do no physical labor; they supervise. Then the cows' milk quietly disappears, and so do the windfall apples. Squealer explains that pigs are brainworkers who need these foods for their health, and that without them Jones would surely come back. No animal wants Jones back, so no one argues. The pigs' first privilege passes without protest."
+   },
+   {
+    "k": "story",
+    "t": "The Battle of the Cowshed",
+    "b": "In autumn Jones returns with men from neighboring farms to retake the farm. Snowball, who has studied Julius Caesar's campaigns, plans the defense and leads the charge, wounded by buckshot. Boxer fights fiercely, then is horrified when he thinks he has killed a stable boy. The humans flee. The animals invent military honors and award Snowball a medal. Soon after, Mollie, a vain white mare who loves ribbons and sugar, slips away to pull a human's cart in town, and is never mentioned again."
    },
    {
     "k": "story",
     "t": "Snowball is chased away",
-    "b": "Snowball, a brilliant speaker, champions a windmill to bring electricity and shorter workdays. Napoleon opposes it. At the decisive meeting, Napoleon whistles, and nine huge dogs he secretly raised from puppies chase Snowball off the farm. Napoleon abolishes the meetings."
+    "b": "Snowball and Napoleon disagree about everything. Snowball champions a windmill to bring electricity, heat and a three-day working week; Napoleon calls it nonsense and urinates on the plans. Snowball is winning the animals over. At the decisive meeting Napoleon gives a strange whistle, and nine enormous dogs, puppies he secretly took from their mothers and raised himself, rush in and chase Snowball off the farm. Napoleon abolishes the Sunday meetings: from now on, the pigs will decide everything. A few young pigs protest, until the dogs growl."
    },
    {
     "k": "story",
     "t": "The windmill, and the scapegoat",
-    "b": "Days later, Napoleon announces the windmill was his idea all along. The animals work brutally hard to build it. When a storm wrecks it, Napoleon blames the absent Snowball. From then on, every failure, broken egg and missing item is blamed on the traitor."
+    "b": "Three weeks later Napoleon announces that the windmill will be built after all. Squealer explains it was Napoleon's idea from the start; Snowball had stolen it. For a year the animals labor brutally, hauling stone from the quarry, working voluntary Sunday afternoons (skip one and your rations are halved), on less food than Jones ever gave them. When a November storm topples the half-built windmill, Napoleon blames Snowball, puts a price on his head, and orders it rebuilt. From then on every failure, broken window and blocked drain is blamed on the traitor lurking in the night."
+   },
+   {
+    "k": "story",
+    "t": "The rules start to change",
+    "b": "The pigs move into the farmhouse and sleep in beds. When the animals vaguely recall a rule against beds, they find the wall now forbids sleeping in a bed with sheets. Napoleon begins trading with neighboring humans through a solicitor, Mr. Whymper, though they swore never to deal with people. When he orders the hens to surrender their eggs for sale, they rebel by laying from the rafters; he cuts off their food until nine hens die. Whenever the animals doubt, Squealer reads out figures proving life has never been better."
    },
    {
     "k": "story",
     "t": "Terror in the yard",
-    "b": "Napoleon stages a purge. Animals confess to plotting with Snowball and the dogs tear their throats out on the spot. The survivors huddle in shock. When they check the barn wall, the rule against killing now says no animal shall kill another without cause."
+    "b": "Napoleon stages a purge. Four young pigs who once protested, some of the rebel hens and several other animals are made to confess to plotting with Snowball, and the dogs tear their throats out on the spot. A pile of corpses lies at Napoleon's feet. The survivors huddle on a knoll in shock. Clover, a motherly old mare, knows this is not the world Major promised, but has no words for it. Beasts of England is banned. And the barn wall now says no animal shall kill another without cause."
+   },
+   {
+    "k": "story",
+    "t": "The Battle of the Windmill",
+    "b": "Napoleon sells a pile of timber to a neighboring farmer, Frederick, who pays in forged banknotes, then attacks with armed men and blows up the newly finished windmill. The animals drive them off at terrible cost, and Squealer declares a glorious victory. That night the pigs find a case of whisky in the cellar. Next morning Napoleon is sick, and the commandment on drinking now forbids it only to excess. Squealer is found one night sprawled beside a broken ladder and a pot of paint; only the cynical old donkey Benjamin seems to understand."
    },
    {
     "k": "story",
     "t": "The horse who worked himself to death",
-    "b": "Boxer, the strongest and most loyal horse, answers every hardship by working harder and trusting Napoleon. When he collapses, the pigs say he's going to a hospital. The van that takes him belongs to a horse slaughterer. Squealer insists it was a misunderstanding."
+    "b": "Boxer, his hoof split in the battle, keeps working, hoping to see the windmill rebuilt before he retires. Then he collapses. The pigs say he will go to a hospital in town. As the van pulls away, Benjamin reads its lettering aloud: it belongs to a horse slaughterer and glue boiler. Boxer kicks feebly at the doors but is too weak to break out. Squealer later swears the van had just been bought by the vet, and describes Boxer's peaceful death. Soon after, the pigs somehow find the money for another case of whisky."
+   },
+   {
+    "k": "story",
+    "t": "The new generation",
+    "b": "Years pass. Most animals who remember the Rebellion are dead, and the young ones know only the pigs' version of history. The farm is richer, but only the pigs and dogs share in it; the rest work as hard and eat as little as ever, comforted that at least they are free. Then Squealer takes the sheep away for a week to teach them something new. One day the pigs come out of the farmhouse walking on their hind legs, Napoleon carrying a whip, and the sheep bleat that two legs are now better than four, drowning out any protest."
    },
    {
     "k": "story",
     "t": "Pig and man, side by side",
-    "b": "Years pass. The pigs walk on two legs, wear clothes, drink whisky and sleep in beds. The Commandments are replaced by a single rule. At a dinner with neighboring farmers, the watching animals look from pig to man and can no longer tell which is which."
+    "b": "Clover asks Benjamin to read the barn wall. The Commandments are gone, replaced by a single rule. The pigs now wear Jones's clothes, read newspapers and restore the old name, Manor Farm. They host the neighboring farmers to dinner, and the humans praise the farm's long hours and low rations. Then a quarrel breaks out over a cheating card game. The animals watching through the window look from pig to man, and from man to pig, and can no longer tell which is which."
    },
    {
     "k": "quote",
@@ -264,38 +309,48 @@
   "title": "Great Expectations",
   "author": "Charles Dickens",
   "year": 1861,
-  "minutes": 7,
+  "minutes": 10,
   "added": "2026-11-07",
   "cards": [
    {
     "k": "story",
     "t": "A boy, a graveyard, a convict",
-    "b": "On the Kentish marshes, little orphan Pip is visiting his parents' graves when an escaped convict seizes him and demands food and a file. Terrified, Pip steals both from the home of his harsh sister and her husband, gentle Joe the blacksmith. When soldiers recapture the man, he claims he stole the food himself, quietly shielding the boy."
+    "b": "On the misty Kentish marshes around 1810, a small orphan, Philip Pirrip, called Pip, is staring at his parents' gravestones when a ragged escaped convict with an iron on his leg seizes him and demands food and a file, threatening to cut out his heart and liver. Terrified, Pip steals both on Christmas Eve from the home of his harsh older sister, Mrs. Joe, who raises him with a cane, and her husband, Joe Gargery, the gentle, simple blacksmith who is Pip's only real friend."
+   },
+   {
+    "k": "story",
+    "t": "Two convicts on the marsh",
+    "b": "On Christmas Day, as Pip sweats through dinner waiting for the theft to be discovered, soldiers arrive at the forge needing handcuffs mended. They are hunting two escaped convicts. Joe and Pip tag along and find Pip's convict on the marsh, fighting savagely with a second escapee, a gentlemanly-looking man he plainly hates. Both are recaptured. Seeing Pip, his convict announces that he stole the food from the blacksmith's himself, quietly shielding the boy. Joe tells him he is welcome to it. He is rowed back to the prison ship."
    },
    {
     "k": "story",
     "t": "The house where time stopped",
-    "b": "Pip is summoned to play at Satis House, home of the rich, strange Miss Havisham. Jilted on her wedding day, she still wears the yellowed dress, the clocks frozen at twenty to nine, the cake rotting on the table. Her ward, the beautiful Estella, mocks Pip's coarse hands and thick boots. He goes home ashamed of everything he is."
+    "b": "Some time later Pip is summoned to play at Satis House, home of the rich, strange Miss Havisham. Jilted on her wedding day decades ago, she still wears her yellowed bridal dress, one shoe on, with every clock stopped at twenty to nine and the wedding cake rotting under cobwebs. Her adopted daughter, the beautiful, proud Estella, plays cards with Pip and mocks his coarse hands and thick boots, while Miss Havisham urges her to break his heart. Pip goes home ashamed of everything he is, and tells wild lies about the visit."
    },
    {
     "k": "story",
     "t": "Apprenticed, and miserable about it",
-    "b": "Pip becomes Joe's apprentice, the life he once looked forward to, but now the forge feels like a prison. His sister is struck down by an unseen attacker, likely the sullen journeyman Orlick, and left disabled. Kind, clever Biddy comes to help the household. Pip confides to her that he wants to be a gentleman, chiefly to win Estella."
+    "b": "Pip visits Satis House for months, and once fights a pale young gentleman in the garden. Then Miss Havisham pays for him to be apprenticed to Joe, and the visits end. The forge, which he once looked forward to, now feels like a prison, and he dreads Estella seeing him black with soot. His sister is struck down by an unseen attacker, probably the sullen journeyman Orlick, and left unable to speak. Kind, clever Biddy comes to keep house, and Pip confides that he wants to be a gentleman, chiefly to win Estella."
    },
    {
     "k": "story",
     "t": "Great expectations arrive",
-    "b": "The formidable London lawyer Mr. Jaggers appears with astonishing news: an anonymous benefactor will make Pip a gentleman of great expectations. Pip must never ask who. He is certain it is Miss Havisham, grooming him to marry Estella. He leaves the forge for London, and is already a little embarrassed by Joe as he says goodbye."
+    "b": "In Pip's fourth year as an apprentice, the formidable London lawyer Mr. Jaggers appears with astonishing news. An anonymous benefactor will make Pip a gentleman of great expectations, with money and a London education. There are two conditions: he must keep the name Pip, and never ask who his benefactor is. Pip is certain it is Miss Havisham, grooming him to marry Estella. Jaggers offers Joe money for the loss of his apprentice; Joe refuses with quiet dignity. Pip leaves for London, already a little embarrassed by Joe and condescending to Biddy."
    },
    {
     "k": "story",
     "t": "Becoming a gentleman, badly",
-    "b": "In London Pip shares rooms with cheerful Herbert Pocket, learns manners, joins a club of idle young men, and runs up debts. When Joe visits in his Sunday clothes, Pip is cold and mortified. Joe leaves with perfect dignity, saying they are simply not meant to be together in London. Pip knows he has behaved badly, and does it anyway."
+    "b": "In London Pip shares rooms with cheerful Herbert Pocket, who turns out to be the pale young gentleman from the garden. He meets Jaggers's clerk Wemmick, dry and guarded at the office but tender at home, where he cares for his deaf old father in a tiny mock castle with a drawbridge. Pip learns manners, joins a club of idle young men, and runs up debts. When Joe visits in his Sunday clothes, Pip is cold and mortified. Joe leaves with perfect dignity, saying they are simply not meant to be together in London."
+   },
+   {
+    "k": "story",
+    "t": "Estella in society",
+    "b": "Estella comes to London to be launched in society, and Pip becomes her escort, adoring and miserable. She warns him plainly that she has no heart, and he refuses to listen. His sister dies, and at the funeral Biddy gently rebukes him for neglecting Joe. Turning twenty-one, Pip receives an income of five hundred pounds a year, and secretly uses part of it to buy Herbert a junior partnership in a shipping firm, his one truly generous act. Meanwhile Estella encourages the rich, brutish Bentley Drummle, whom Pip despises."
    },
    {
     "k": "story",
     "t": "The stranger on the stairs",
-    "b": "On a stormy night a weathered old man climbs to Pip's rooms. It is the convict from the marshes, Abel Magwitch. Transported to Australia, he grew rich as a sheep farmer and sent every penny to the boy who once fed him. Miss Havisham had nothing to do with it. And returning to England means the gallows for Magwitch."
+    "b": "When Pip is twenty-three, on a stormy night, a weathered old man climbs the stairs to his rooms. It is the convict from the marshes, Abel Magwitch. Transported to Australia, he grew rich as a sheep farmer and sent every penny to make a gentleman of the boy who once fed him. Miss Havisham had nothing to do with it; she let Pip believe it to torment her greedy relatives. Pip is horrified, and his dream collapses. Worse, Magwitch was banished for life: if he is caught in England, he will hang."
    },
    {
     "k": "quote",
@@ -306,17 +361,27 @@
    {
     "k": "story",
     "t": "Every secret comes undone",
-    "b": "The truths tumble out. Miss Havisham's faithless bridegroom, Compeyson, was Magwitch's old criminal partner and enemy. Estella turns out to be Magwitch's own daughter, her mother the housekeeper in Jaggers's kitchen. Estella marries the brutish Bentley Drummle. Miss Havisham finally sees the harm she has done and begs forgiveness, then her dress catches fire; Pip burns his hands saving her."
+    "b": "Magwitch tells his story. His old partner in crime was Compeyson, a smooth gentleman swindler who let Magwitch take the heavier sentence. He was the second convict on the marsh, and he is also the man who jilted Miss Havisham after plotting to swindle her. Pip pieces together that Jaggers's housekeeper Molly, a woman with powerful, scarred wrists, is Estella's mother, and Magwitch is her father. Pip pours out his love to Estella, who is moved but unchanged, and marries Drummle anyway."
+   },
+   {
+    "k": "story",
+    "t": "Fire at Satis House",
+    "b": "Pip visits Miss Havisham one last time. Seeing her own broken heart in his, she agrees to fund the rest of Herbert's partnership and falls to her knees begging his forgiveness. As he leaves, her old wedding dress catches fire from the hearth. Pip throws his coat over her and wrestles her to the floor, badly burning his hands. She lingers for weeks, murmuring her regrets, then dies. Soon after, Orlick lures Pip to a lime kiln on the marshes, admits attacking his sister, and means to kill him; Herbert arrives just in time."
    },
    {
     "k": "story",
     "t": "Escape on the river",
-    "b": "Pip, Herbert and their friend Startop row Magwitch down the Thames to meet a steamer abroad. Compeyson has betrayed them, and a police boat intercepts. In the struggle Compeyson drowns and Magwitch is badly injured, then condemned to death. Pip, no longer ashamed of him, sits by his bed daily and tells him at the end that his daughter lives and Pip loves her."
+    "b": "Pip, Herbert and their friend Startop row Magwitch down the Thames to meet a steamer bound abroad. Compeyson has betrayed them, and a police boat intercepts. In the struggle Compeyson and Magwitch go overboard together; Compeyson drowns, and Magwitch is badly injured. He is tried and sentenced to death, and his fortune is seized by the Crown, so Pip's expectations are gone for good. Pip, no longer ashamed of him, holds his hand in court and visits him in the prison hospital every day."
+   },
+   {
+    "k": "story",
+    "t": "Magwitch's last hour",
+    "b": "As Magwitch lies dying, Pip tells him that the daughter he thought lost is alive, a lady, and that Pip loves her. Magwitch lifts Pip's hand to his lips and dies peacefully, before the sentence can be carried out. Penniless and in debt, Pip collapses into a long fever and is nearly arrested by his creditors. When he wakes, the person nursing him is Joe, who has come from the village, quietly paid his debts, and slips away once Pip is well, leaving only a receipt behind."
    },
    {
     "k": "story",
     "t": "Coming home, changed",
-    "b": "Penniless and gravely ill, Pip is nursed back to health by Joe, who quietly pays his debts. Pip returns to propose to Biddy, only to find her marrying Joe, and humbly asks their forgiveness. He works abroad with Herbert for eleven years. Back at the ruins of Satis House he meets the widowed Estella, softened by suffering, and they leave together."
+    "b": "Humbled, Pip goes home to ask Biddy to marry him, and arrives on her wedding day to Joe. He asks their forgiveness, which they give freely. Pip joins Herbert's firm in Cairo, works hard, pays his debts and lives modestly. Eleven years later he returns to find Joe and Biddy with a little son named Pip. At the ruins of Satis House he meets the widowed Estella, softened by years of Drummle's cruelty. They take hands and leave the ruined place together, and Pip sees no shadow of another parting."
    },
    {
     "k": "character",

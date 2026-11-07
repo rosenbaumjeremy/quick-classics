@@ -39,6 +39,12 @@ for n, l in enumerate(lessons):
     cards = l.get("cards") if isinstance(l.get("cards"), list) else []
     if len(cards) < 15:
         errors.append(f"{where}: only {len(cards)} cards")
+    story = [c for c in cards if isinstance(c, dict) and c.get("k") == "story"]
+    if len(story) < 12:
+        errors.append(f"{where}: only {len(story)} story cards (need 12-14 for a full summary)")
+    short = [c.get("t") for c in story if isinstance(c.get("b"), str) and len(c["b"].split()) < 70]
+    if short:
+        errors.append(f"{where}: story cards under 70 words: {short}")
     for i, c in enumerate(cards):
         cw = f"{where} card {i}"
         if not isinstance(c, dict):

@@ -55,16 +55,20 @@ exactly as it is.
 
 ```json
 {"id": "day-N", "label": "Day N", "title": "...", "author": "...", "year": <first publication year>,
- "minutes": 7, "added": "<today YYYY-MM-DD>", "cards": [ ... ]}
+ "minutes": 10, "added": "<today YYYY-MM-DD>", "cards": [ ... ]}
 ```
 
-About 22–26 cards, together roughly the depth of a five-page professor's study. Each card has
+About 27–31 cards, together roughly the depth of a five-page professor's study. Each card has
 `"k"` (one of `story`, `character`, `theme`, `lesson`, `quote`, `reflect`), `"t"` (a punchy
-headline under ~8 words) and `"b"` (40–70 words of plain, vivid prose); a `quote` card also has `"q"`.
+headline under ~8 words) and `"b"` (40–70 words of plain, vivid prose; **80–100 words for `story` cards**); a `quote` card also has `"q"`.
 In this order:
 
-1. 8–10 `story` cards covering the whole plot through the ending, with the `quote` card placed at
-   the story's turning point.
+1. 12–14 `story` cards that together are a full summary of the book: someone who has never read
+   it should come away able to follow a conversation about it. Cover the setting (place, period,
+   the social situation that drives the plot), every major event in order through the ending,
+   the important subplots and secondary characters by name, and what the characters want and why
+   they act as they do. Be concrete: names, places, what actually happens. Place the `quote`
+   card at the story's turning point.
 2. 1 `quote` card with the work's most memorable line: verbatim only if the work is in the public
    domain; otherwise a paraphrase without quotation marks, and say in `"b"` that it is paraphrased.
 3. 3 `character` cards.
