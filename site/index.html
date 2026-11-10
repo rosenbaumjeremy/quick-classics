@@ -15,10 +15,14 @@
 <body>
 <main class="lib" id="lib">
   <header>
-    <span class="eyebrow">A classic a day</span>
+    <span class="eyebrow" id="eyebrow">A classic a day</span>
     <h1>Quick Classics</h1>
-    <p class="sub">Great books, one swipeable idea at a time: the story, the people, the big ideas and what they can teach you.</p>
+    <p class="sub" id="sub">Great books, one swipeable idea at a time: the story, the people, the big ideas and what they can teach you.</p>
   </header>
+  <nav class="shelves" aria-label="Shelves">
+    <a href="#library" id="shelf-classics" aria-current="page">Classics</a>
+    <a href="#nonfiction" id="shelf-nonfiction">Non-Fiction</a>
+  </nav>
   <div class="grid" id="grid"><p class="note">Loading the library…</p></div>
 </main>
 

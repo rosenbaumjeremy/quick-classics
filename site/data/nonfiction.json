@@ -1,0 +1,100 @@
+[
+{"id": "blink", "label": "Book 1", "category": "Psychology", "title": "Blink",
+ "subtitle": "The Power of Thinking Without Thinking", "author": "Malcolm Gladwell", "year": 2005,
+ "minutes": 18, "added": "2026-11-10", "cards": [
+
+{"k": "argument", "t": "The book in one breath",
+ "b": "Blink is about the first two seconds: the judgments we make instantly, before we can say why. Gladwell's claim is that these snap decisions are not lazy guesses. They come from a powerful part of the mind that spots patterns faster than conscious reasoning can, and they are often as accurate as careful analysis, sometimes more so. But the same machinery can be hijacked by prejudice, stress, or too much information, and then it fails badly. The book has three goals: to show that fast judgments can be excellent, to explain when we should trust them and when we should not, and to argue that we can train and protect them."},
+
+{"k": "argument", "t": "Two minds, working in parallel",
+ "b": "Gladwell borrows a picture from psychology: we run two decision systems at once. The conscious one is slow, deliberate and verbal; it weighs pros and cons and can explain itself. The other, which he calls the adaptive unconscious, works silently and fast, sizing up people and situations from tiny cues and handing us a conclusion as a feeling: unease, attraction, suspicion. We usually get this feeling long before we have a reason. The book's key insight is that neither system is always better. The question is which one fits the problem in front of you, and how to keep the fast one from being corrupted."},
+
+{"k": "case", "t": "The statue that felt wrong",
+ "b": "In the early 1980s an art dealer offered the J. Paul Getty Museum a kouros, a Greek marble statue of a nude youth, supposedly from the sixth century BC, for close to ten million dollars. The museum spent fourteen months on scientific tests: core samples, mass spectrometry, a paper trail of earlier owners. Everything checked out, and the Getty bought it. Then experts saw it. Federico Zeri found himself staring at its fingernails without knowing why. Thomas Hoving's first thought was the word 'fresh,' which is wrong for a 2,500-year-old statue. Others felt an instant revulsion. Later the paperwork turned out to be forged. The experts' glance had beaten months of analysis."},
+
+{"k": "concept", "t": "Thin-slicing",
+ "b": "Thin-slicing is Gladwell's central concept: the ability of the unconscious to find meaningful patterns in a very narrow slice of experience. You do not need the whole story to read a situation, because the patterns that matter often show up in a few seconds. A classic study found that students who watched a two-second silent clip of a teacher rated that teacher almost exactly as students who had sat through a full semester did. Thin-slicing works best where a person has deep experience, which is why the art experts could do it and a museum committee could not. It is not magic; it is expertise compressed into a glance."},
+
+{"k": "case", "t": "Predicting divorce in an hour",
+ "b": "Psychologist John Gottman videotapes married couples in his 'Love Lab' talking about a sore subject, such as a pet or money, while sensors track their heart rates and sweat. He codes every second of emotion they show. Gladwell reports that from one hour of conversation Gottman can predict, with about 95 percent accuracy, whether a couple will still be married fifteen years later. The key is knowing what to look for. Gottman watches for four warning signs, which he calls the Four Horsemen: criticism, defensiveness, stonewalling and, above all, contempt. Eye-rolling and sneering, the signs that one partner looks down on the other, turn out to be the strongest predictor of divorce."},
+
+{"k": "case", "t": "Why some doctors get sued",
+ "b": "Who gets sued for malpractice? You would expect the worst surgeons. Not quite. Researcher Wendy Levinson recorded hundreds of doctors talking with patients and found that the ones who had never been sued spent about three minutes longer per visit, explained what would happen next, laughed more, and invited questions. Psychologist Nalini Ambady then took just forty-second snippets of those conversations and filtered them so the words were unintelligible, leaving only tone of voice. Listeners who rated how dominant or hostile a surgeon sounded could predict which ones had been sued. Patients sue doctors they feel disrespected by, and that feeling forms in seconds."},
+
+{"k": "concept", "t": "The locked door",
+ "b": "Our snap judgments come from behind what Gladwell calls a locked door: we cannot see how they are made, so we often explain them wrongly. People who solve a puzzle after a hidden hint will confidently describe a different reason. Tennis coach Vic Braden could tell, just before a player struck a serve, whether it would be a double fault, yet he could not say how he knew. This matters because when we are asked to explain an intuition, we invent plausible stories, and those stories can lead us astray. The practical warning: an expert's feeling may be right even when the reasons they give for it are wrong."},
+
+{"k": "case", "t": "The gambling cards that taught the body first",
+ "b": "In the Iowa Gambling Task, designed by Antoine Bechara and Antonio Damasio, players draw cards from four decks. Two red decks pay big rewards but carry ruinous penalties; two blue decks pay modestly and steadily. Over time only the blue decks win. Players start to say they 'have a hunch' after about fifty cards and can explain the pattern after about eighty. But sweat sensors on their palms show stress responses to the red decks after only about ten cards, and around then they quietly begin favoring the blue ones. The body knew long before the mind could say so, which is Gladwell's clearest picture of the adaptive unconscious at work."},
+
+{"k": "concept", "t": "Priming: nudges we never notice",
+ "b": "Priming is the finding that small, unnoticed cues can shift how we act. In an experiment by John Bargh, students unscrambled sentences sprinkled with words about old age, such as 'wrinkle' and 'Florida.' Afterward they walked more slowly down the hallway, without realizing it. In Claude Steele's research, Black students who had to note their race before a hard test scored worse than those who did not, because the box called up a stereotype. Gladwell uses these studies to argue that the locked room is open to outside influence: our environment quietly loads our instincts. Some of these priming results have since been hard to repeat, which the debate cards return to."},
+
+{"k": "concept", "t": "The Warren Harding error",
+ "b": "Warren Harding became President of the United States in 1921 largely because he looked like one: tall, handsome, with a commanding voice. His backers saw that and stopped thinking. By most accounts he was one of the weakest presidents in American history. Gladwell names this the Warren Harding error: when a powerful first impression, triggered by appearance, crowds out real judgment. It is thin-slicing gone wrong, because the slice we are reading is the wrong slice. Height, looks, accent or race say almost nothing about competence, but they speak loudly to the unconscious. Gladwell notes that tall men are heavily overrepresented among corporate chief executives."},
+
+{"k": "case", "t": "Testing what you don't believe",
+ "b": "The Implicit Association Test measures how quickly you pair concepts. Sorting words into 'White or Good' versus 'Black or Bad' feels easy for many people; flipping the pairings slows them down by fractions of a second, revealing hidden associations. Gladwell, whose mother is Jamaican, took the race version and was dismayed to be rated as having a moderate automatic preference for white people, as most test-takers are. Conscious beliefs, he argues, are what we choose to value; implicit attitudes are what we absorbed from the world around us. The two can sharply disagree, and in a fast decision such as a job interview, the implicit one may speak first."},
+
+{"k": "case", "t": "The car salesman who treats everyone the same",
+ "b": "Economist Ian Ayres sent trained testers of different races and sexes to Chicago car dealerships with identical scripts, clothes and credit stories. White men received the lowest first offers. Black men were quoted nearly a thousand dollars more on average for the same car, as if salesmen had thin-sliced them as easy marks. Gladwell contrasts this with Bob Golomb, a top-selling New Jersey car salesman whose rule was to give every customer the same respectful treatment, regardless of how they looked or dressed. By refusing to judge by appearance, he won customers others dismissed. His lesson is that Warren Harding errors are not only unfair; they are also bad business."},
+
+{"k": "case", "t": "The general who beat the supercomputer",
+ "b": "In 2002 the Pentagon ran Millennium Challenge, a war game said to cost about 250 million dollars. The Blue Team had vast computing power and a theory of total information. Retired Marine general Paul Van Riper played a rogue Middle Eastern commander. He gave his officers broad goals and let them improvise, sent messages by motorcycle couriers and light signals to avoid surveillance, and on the second day launched a sudden swarm of missiles and small boats that sank sixteen Blue Team ships. The game was reset and rules changed to let Blue win. Van Riper's point: in fast, chaotic situations, rapid judgment beats exhaustive analysis."},
+
+{"k": "concept", "t": "Structure makes spontaneity possible",
+ "b": "Van Riper's success was not wild guessing. Gladwell compares it to improvisational theater, where actors seem to invent scenes freely but are actually following rules practiced for years, such as 'always accept what your partner offers.' Good snap judgments come from training, rehearsal and clear shared principles, which let people act fast without stopping to deliberate. A related idea is verbal overshadowing: in Jonathan Schooler's experiments, people asked to describe a face in words afterward recognized it worse. Explaining can damage knowledge that lives below language. The lesson is not 'never think,' but build expertise and structure, then trust it in the moment."},
+
+{"k": "case", "t": "Cook County's chest-pain rule",
+ "b": "Cook County Hospital in Chicago, overwhelmed and underfunded in the 1990s, struggled to decide which chest-pain patients were having heart attacks. Doctors gathered every detail and still disagreed wildly. Chairman Brendan Reilly adopted a decision rule developed by cardiologist Lee Goldman: look at the ECG, then ask three questions about urgent risk factors, such as whether the patient's systolic blood pressure is below 100. Nothing else. After two years of testing, the simple rule proved much better at identifying patients who were not having heart attacks, and also safer for those who were. Extra information, it turned out, was not helping; it was confusing the doctors."},
+
+{"k": "concept", "t": "When more information hurts",
+ "b": "The Cook County story carries one of the book's most counterintuitive ideas: beyond a point, information becomes a burden. Each extra fact feels like it should help, but it adds noise, distracts from the few signals that matter, and makes people more confident without making them more accurate. Gladwell's term is 'frugal' judgment: knowing which handful of cues predict the outcome and deliberately ignoring the rest. This is also why the Blue Team lost the war game and why Gottman can work from a few signs. Good decisions often come from taking information away, not piling it on."},
+
+{"k": "case", "t": "Pepsi, New Coke and the sip test",
+ "b": "In the 1980s Pepsi ran blind taste tests in which shoppers took a single sip of each cola, and most preferred Pepsi. Panicked, Coca-Cola reformulated its drink to be sweeter and launched New Coke in 1985. It was a famous disaster. The problem was the test: a sip favors the sweeter drink, but people drink whole cans at home, where sweetness can become cloying. Gladwell also describes Louis Cheskin's idea of sensation transference: we judge a product partly by its packaging and color, as when margarine sold better once it was colored yellow. A good first impression depends on testing in the conditions where real choices are made."},
+
+{"k": "concept", "t": "Experts and amateurs judge differently",
+ "b": "Gladwell argues that first impressions are only as good as the experience behind them. Trained food tasters use a detailed vocabulary that lets them explain why they prefer one jam to another, and their judgments are stable. Ordinary people asked to explain their jam preferences, in a study by Timothy Wilson and Jonathan Schooler, made worse choices than those who did not have to explain. The Aeron office chair, rated ugly in early tests, became a classic once people got used to its strangeness, and market research nearly sank it. When something is truly new, ordinary gut reactions can mistake unfamiliar for bad."},
+
+{"k": "concept", "t": "Reading minds from faces",
+ "b": "Psychologists Paul Ekman and Wallace Friesen catalogued every movement the human face can make into the Facial Action Coding System, mapping dozens of 'action units' and the emotions they combine to express. Trained readers can catch flashes of anger, fear or contempt that last a fraction of a second. Ekman even found that making a facial expression on purpose can produce the matching emotion in your body. For Gladwell, this means the information we need to read other people is usually there on their faces. Our ability to read it, though, depends on calm attention, and it can collapse under pressure, as the next story shows."},
+
+{"k": "case", "t": "Forty-one shots in the Bronx",
+ "b": "Late one night in February 1999, four plainclothes New York police officers saw Amadou Diallo, a young West African immigrant, standing in his Bronx doorway. They thought he looked suspicious. When he reached for his pocket, one officer shouted that he had a gun; they fired 41 shots, killing him. He had been taking out his wallet. Gladwell sees not simple racism but a chain of fast misjudgments under extreme stress. At very high heart rates, research suggests, perception narrows and people lose the ability to read faces, a state Gladwell calls temporary autism. Police reforms such as slowing encounters down aim to keep officers out of that zone."},
+
+{"k": "case", "t": "The screen that changed orchestras",
+ "b": "For generations, classical orchestras were overwhelmingly male, and conductors believed they could hear the difference. Then auditions began to be held behind a screen, so judges could hear the music but not see the player. In 1980 trombonist Abbie Conant auditioned this way for the Munich Philharmonic and won, before the panel discovered she was a woman; the orchestra later tried to demote her. Gladwell reports that once blind auditions spread, the number of women in top American orchestras rose roughly fivefold. The judges' ears had always been good. Their eyes were corrupting what they heard, and changing the environment fixed it."},
+
+{"k": "quote", "t": "The book's last word",
+ "q": "We can control the conditions in which our snap judgments are made, and so we can make them better.",
+ "b": "This is a paraphrase of the closing idea of Blink, not Gladwell's exact words. It sums up his whole argument: we cannot simply turn off the adaptive unconscious, but we can train it through experience, protect it from stress and overload, and screen out cues, like appearance, that mislead it."},
+
+{"k": "critique", "t": "Where the science has wobbled",
+ "b": "Blink leans on some studies that have not held up well. Several famous priming findings, including Bargh's slow-walking students, failed when other labs tried to repeat them, part of a wider 'replication crisis' in psychology. The Implicit Association Test reliably shows hidden associations across large groups, but it predicts an individual's actual behavior only weakly. Critics also note that Gottman's impressive divorce figures came from fitting his model to couples whose outcomes were already known. None of this destroys the book's core ideas, but treat its most striking numbers as illustrations, not settled laws."},
+
+{"k": "critique", "t": "When should you trust your gut?",
+ "b": "Blink tells memorable stories of intuition succeeding and failing, but critics such as the economist Richard Posner said it never gives a clear rule for telling the two apart. Later work by Daniel Kahneman and Gary Klein offered one: intuition is trustworthy when the environment is regular enough to have patterns, and the person has had long practice with quick, honest feedback, like a firefighter or chess player. In unpredictable domains, such as stock picking or long-range politics, confident gut feelings deserve suspicion. Read Blink with that test in mind, and its examples line up neatly."},
+
+{"k": "lesson", "t": "Build expertise, then trust it",
+ "b": "The art experts, Gottman and Vic Braden could read a situation in seconds because they had spent years doing the slow work first. Fast judgment is earned. In your own field, practice deliberately, seek honest feedback and study your mistakes; over time your instincts become worth listening to. Where you are a beginner, slow down and gather advice instead."},
+
+{"k": "lesson", "t": "Find the few signals that matter",
+ "b": "Cook County's chest-pain rule and Gottman's Four Horsemen both work by ignoring most of the data. Before a big decision, ask: which three or four facts would really change my choice? Gather those carefully and stop there. More reports, opinions and spreadsheets can make you feel safer while quietly making your judgment worse."},
+
+{"k": "lesson", "t": "Change the setting to change the judgment",
+ "b": "Orchestras did not reform conductors' minds; they put up a screen. When you know a bias can creep in, redesign the situation: review job applications with names removed, set criteria before meeting candidates, and treat every customer the same way Bob Golomb did. It is easier to change the environment than to will away an unconscious association."},
+
+{"k": "lesson", "t": "Notice when stress is deciding for you",
+ "b": "The Diallo shooting shows how high arousal shrinks perception and makes us misread people. In a heated argument, a crisis at work or a near-miss on the road, your snap judgments are at their least reliable. Buy time where you can: pause, breathe, step back, and give yourself the chance to see what is actually in front of you."},
+
+{"k": "lesson", "t": "Don't over-explain a good instinct",
+ "b": "Verbal overshadowing and the jam study suggest that forcing ourselves to justify every preference in words can push us toward the reasons that are easiest to say, not the ones that matter. When an experienced instinct tells you something, take it seriously as data, then test it, rather than arguing yourself out of it or inventing a tidy story."},
+
+{"k": "lesson", "t": "Mind the first impression you give",
+ "b": "Patients decided whether to sue their surgeons from tone of voice; customers judged products by their packaging. Others are thin-slicing you all the time. Small things, like listening fully, explaining what happens next, and showing respect in the first minutes, shape how people read everything you do afterward, often more than your technical skill."},
+
+{"k": "reflect", "t": "Something to think about today",
+ "b": "Think of a snap judgment you made this week about a person, an email or a decision. Was it built on real experience in that area, or on a cue like appearance, mood or a single detail? What would it look like to check it, the way the Getty's experts were right to trust their eyes but the museum was wrong to trust its paperwork?"}
+]}
+]
