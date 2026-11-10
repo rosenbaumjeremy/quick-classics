@@ -30,57 +30,64 @@ Use today's date in Israel (`TZ=Asia/Jerusalem date +%F`).
 | 7 | The Selfish Gene | Richard Dawkins | Science |
 | 8 | Outliers | Malcolm Gladwell | Society |
 | 9 | Guns, Germs, and Steel | Jared Diamond | History |
-| 10 | Influence | Robert B. Cialdini | Psychology |
-| 11 | Good to Great | Jim Collins | Business |
-| 12 | A Brief History of Time | Stephen Hawking | Science |
-| 13 | Meditations | Marcus Aurelius | Philosophy |
-| 14 | Nudge | Richard H. Thaler & Cass R. Sunstein | Economics |
-| 15 | The 7 Habits of Highly Effective People | Stephen R. Covey | Self-Improvement |
-| 16 | Mindset | Carol S. Dweck | Psychology |
-| 17 | The Innovator's Dilemma | Clayton M. Christensen | Business |
-| 18 | The Gene: An Intimate History | Siddhartha Mukherjee | Science |
-| 19 | The Diary of a Young Girl | Anne Frank | Memoir & Biography |
-| 20 | The Black Swan | Nassim Nicholas Taleb | Economics |
-| 21 | Quiet | Susan Cain | Psychology |
-| 22 | Zero to One | Peter Thiel & Blake Masters | Business |
-| 23 | The Righteous Mind | Jonathan Haidt | Society |
-| 24 | Silent Spring | Rachel Carson | Science |
-| 25 | The Prince | Niccolò Machiavelli | Philosophy |
-| 26 | How to Win Friends and Influence People | Dale Carnegie | Self-Improvement |
-| 27 | The Wealth of Nations | Adam Smith | Economics |
-| 28 | Night | Elie Wiesel | Memoir & Biography |
-| 29 | Predictably Irrational | Dan Ariely | Economics |
-| 30 | The Structure of Scientific Revolutions | Thomas S. Kuhn | Science |
-| 31 | Deep Work | Cal Newport | Self-Improvement |
-| 32 | The Tipping Point | Malcolm Gladwell | Society |
-| 33 | Team of Rivals | Doris Kearns Goodwin | History |
-| 34 | The Lean Startup | Eric Ries | Business |
-| 35 | Flow | Mihaly Csikszentmihalyi | Psychology |
-| 36 | The Republic | Plato | Philosophy |
-| 37 | Steve Jobs | Walter Isaacson | Memoir & Biography |
-| 38 | The Wright Brothers | David McCullough | History |
-| 39 | Grit | Angela Duckworth | Psychology |
-| 40 | Superforecasting | Philip E. Tetlock & Dan Gardner | Psychology |
-| 41 | The Art of War | Sun Tzu | Philosophy |
-| 42 | The Emperor of All Maladies | Siddhartha Mukherjee | Science |
-| 43 | Range | David Epstein | Society |
-| 44 | Never Split the Difference | Chris Voss | Business |
-| 45 | The Guns of August | Barbara W. Tuchman | History |
-| 46 | Factfulness | Hans Rosling | Society |
-| 47 | Educated | Tara Westover | Memoir & Biography |
-| 48 | The Power of Habit | Charles Duhigg | Psychology |
-| 49 | Cosmos | Carl Sagan | Science |
-| 50 | The Intelligent Investor | Benjamin Graham | Economics |
-| 51 | Long Walk to Freedom | Nelson Mandela | Memoir & Biography |
-| 52 | The Road to Character | David Brooks | Philosophy |
-| 53 | Why We Sleep | Matthew Walker | Science |
-| 54 | The Effective Executive | Peter F. Drucker | Business |
-| 55 | The Better Angels of Our Nature | Steven Pinker | History |
-| 56 | Essentialism | Greg McKeown | Self-Improvement |
-| 57 | Antifragile | Nassim Nicholas Taleb | Economics |
-| 58 | The Undoing Project | Michael Lewis | Memoir & Biography |
-| 59 | Moneyball | Michael Lewis | Business |
-| 60 | The Federalist Papers | Alexander Hamilton, James Madison & John Jay | History |
+| 10 | Benjamin Franklin: An American Life | Walter Isaacson | Memoir & Biography |
+| 11 | Influence | Robert B. Cialdini | Psychology |
+| 12 | Good to Great | Jim Collins | Business |
+| 13 | A Brief History of Time | Stephen Hawking | Science |
+| 14 | Meditations | Marcus Aurelius | Philosophy |
+| 15 | Nudge | Richard H. Thaler & Cass R. Sunstein | Economics |
+| 16 | The 7 Habits of Highly Effective People | Stephen R. Covey | Self-Improvement |
+| 17 | Einstein: His Life and Universe | Walter Isaacson | Memoir & Biography |
+| 18 | Mindset | Carol S. Dweck | Psychology |
+| 19 | The Innovator's Dilemma | Clayton M. Christensen | Business |
+| 20 | The Gene: An Intimate History | Siddhartha Mukherjee | Science |
+| 21 | The Diary of a Young Girl | Anne Frank | Memoir & Biography |
+| 22 | The Black Swan | Nassim Nicholas Taleb | Economics |
+| 23 | Quiet | Susan Cain | Psychology |
+| 24 | Leonardo da Vinci | Walter Isaacson | Memoir & Biography |
+| 25 | Zero to One | Peter Thiel & Blake Masters | Business |
+| 26 | The Righteous Mind | Jonathan Haidt | Society |
+| 27 | Silent Spring | Rachel Carson | Science |
+| 28 | The Prince | Niccolò Machiavelli | Philosophy |
+| 29 | How to Win Friends and Influence People | Dale Carnegie | Self-Improvement |
+| 30 | The Wealth of Nations | Adam Smith | Economics |
+| 31 | The Innovators | Walter Isaacson | History |
+| 32 | Night | Elie Wiesel | Memoir & Biography |
+| 33 | Predictably Irrational | Dan Ariely | Economics |
+| 34 | The Structure of Scientific Revolutions | Thomas S. Kuhn | Science |
+| 35 | Deep Work | Cal Newport | Self-Improvement |
+| 36 | The Tipping Point | Malcolm Gladwell | Society |
+| 37 | Team of Rivals | Doris Kearns Goodwin | History |
+| 38 | The Lean Startup | Eric Ries | Business |
+| 39 | Flow | Mihaly Csikszentmihalyi | Psychology |
+| 40 | The Republic | Plato | Philosophy |
+| 41 | Steve Jobs | Walter Isaacson | Memoir & Biography |
+| 42 | The Wright Brothers | David McCullough | History |
+| 43 | Grit | Angela Duckworth | Psychology |
+| 44 | Superforecasting | Philip E. Tetlock & Dan Gardner | Psychology |
+| 45 | The Code Breaker | Walter Isaacson | Science |
+| 46 | The Art of War | Sun Tzu | Philosophy |
+| 47 | The Emperor of All Maladies | Siddhartha Mukherjee | Science |
+| 48 | Range | David Epstein | Society |
+| 49 | Never Split the Difference | Chris Voss | Business |
+| 50 | The Guns of August | Barbara W. Tuchman | History |
+| 51 | Factfulness | Hans Rosling | Society |
+| 52 | Educated | Tara Westover | Memoir & Biography |
+| 53 | Kissinger: A Biography | Walter Isaacson | Memoir & Biography |
+| 54 | The Power of Habit | Charles Duhigg | Psychology |
+| 55 | Cosmos | Carl Sagan | Science |
+| 56 | The Intelligent Investor | Benjamin Graham | Economics |
+| 57 | Long Walk to Freedom | Nelson Mandela | Memoir & Biography |
+| 58 | The Road to Character | David Brooks | Philosophy |
+| 59 | Why We Sleep | Matthew Walker | Science |
+| 60 | Elon Musk | Walter Isaacson | Memoir & Biography |
+| 61 | The Effective Executive | Peter F. Drucker | Business |
+| 62 | The Better Angels of Our Nature | Steven Pinker | History |
+| 63 | Essentialism | Greg McKeown | Self-Improvement |
+| 64 | Antifragile | Nassim Nicholas Taleb | Economics |
+| 65 | The Undoing Project | Michael Lewis | Memoir & Biography |
+| 66 | Moneyball | Michael Lewis | Business |
+| 67 | The Federalist Papers | Alexander Hamilton, James Madison & John Jay | History |
 
 ## Step 2: write the lesson
 
