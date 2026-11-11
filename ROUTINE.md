@@ -63,11 +63,13 @@ About 28–32 cards, together roughly the depth of a five-page professor's study
 headline under ~8 words) and `"b"` (40–70 words of plain, vivid prose; **80–100 words for `story` cards**); a `quote` card also has `"q"`.
 In this order:
 
-0. 1 `preview` card first, titled "What you'll learn", with `"b"`: "In 10 minutes, you'll come
-   away knowing:" and `"pts"`: 4 items, each `{"h": "<label>", "d": "<one sentence, under ~25
-   words>"}`, using the labels "The story", "The people", "The big ideas" and "What to take away".
-   Write it last, after the other cards, so it previews what the deck actually says: name the
-   specific characters, themes and lessons you wrote. `"d"` starts lower-case (it follows "label:").
+0. 1 `preview` card first, titled "What you'll learn", with `"b"`: "If you remember nothing else,
+   remember this:" and `"pts"`: 4 items, each `{"h": "<the big idea, stated as a claim>", "d": "<one
+   sentence, under ~20 words, pointing to where the book shows it>"}`. These are the big ideas you,
+   as the professor, most want the reader to take away: not a plot outline or a list of characters.
+   Example: `{"h": "First impressions deceive", "d": "Elizabeth's quick, clever verdicts on Darcy and
+   Wickham are both wrong; wit is no protection against bias."}`. Write it last, after the other
+   cards, so it distils what the deck actually says. `"d"` starts lower-case (it follows "idea:").
 1. 12–14 `story` cards that together are a full summary of the book: someone who has never read
    it should come away able to follow a conversation about it. Cover the setting (place, period,
    the social situation that drives the plot), every major event in order through the ending,

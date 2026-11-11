@@ -4,13 +4,12 @@
  "minutes": 18, "added": "2026-11-10", "cards": [
 
 {"k": "preview", "t": "What you'll learn",
- "b": "In 18 minutes, you'll come away knowing:",
+ "b": "If you remember nothing else, remember this:",
  "pts": [
-  {"h": "Why snap judgments work", "d": "thin-slicing lets experts read a situation in seconds, like spotting a fake statue that months of tests missed."},
-  {"h": "Why we can't explain our hunches", "d": "your gut often knows before you do, and the reasons you give for it can be wrong."},
-  {"h": "When fast thinking fails", "d": "prejudice, stress and too much information, from a Bronx shooting to New Coke."},
-  {"h": "How to protect good instincts", "d": "structure, simple rules, and screens like blind orchestra auditions."},
-  {"h": "Where the science has wobbled", "d": "what later research questions, plus six habits to take away."}
+  {"h": "Snap judgments can beat careful analysis", "d": "experts thin-slice in seconds, like spotting the fake statue months of tests missed."},
+  {"h": "You can't always explain what you know", "d": "your gut often knows first, and the reasons you give can be wrong."},
+  {"h": "Fast thinking is easily corrupted", "d": "prejudice, stress and too much information turn instinct into error."},
+  {"h": "Instinct can be trained and protected", "d": "build expertise, then guard it with structure and screens like blind auditions."}
  ]},
 
 {"k": "argument", "t": "The book in one breath",

@@ -2,7 +2,7 @@
 // Quick Classics: a library with shelves (Classics at #library, Non-Fiction at #nonfiction) and a
 // swipeable deck of ideas per book (#<id>). Classics live in data/lessons.json, non-fiction in
 // data/nonfiction.json; a book's saved ideas are kept on the device (localStorage).
-const LABEL = {preview:"Overview", story:"The story", character:"Characters", theme:"Big idea", lesson:"Lesson", reflect:"Reflect", quote:"Key line",
+const LABEL = {preview:"The big picture", story:"The story", character:"Characters", theme:"Big idea", lesson:"Lesson", reflect:"Reflect", quote:"Key line",
   argument:"The argument", concept:"Key concept", case:"Case study", critique:"The debate"};
 // non-fiction kinds borrow the classics' card colours
 const COLOR = {quote:"reflect", argument:"story", concept:"theme", case:"character", critique:"reflect"};

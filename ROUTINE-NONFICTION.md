@@ -104,12 +104,12 @@ structure. Then append **one** object to the array. Keep every existing entry ex
 About 29–35 cards. Each card has `"k"`, `"t"` (a punchy headline under ~8 words) and `"b"`
 (plain, vivid prose). In this order:
 
-0. 1 `preview` card first, titled "What you'll learn", with `"b"`: "In <minutes> minutes, you'll
-   come away knowing:" and `"pts"`: 4–5 items, each `{"h": "<short label>", "d": "<one sentence,
-   under ~18 words>"}` so the card fits one phone screen. Write it last, after the other cards, so it previews what the deck actually
-   teaches: the core claim, the key concepts and cases by name, the debate, and the takeaways.
-   Labels say what the reader will understand (for example "Why snap judgments work"); `"d"` starts
-   lower-case. The Blink entry's preview is the model.
+0. 1 `preview` card first, titled "What you'll learn", with `"b"`: "If you remember nothing else,
+   remember this:" and `"pts"`: 3–4 items, each `{"h": "<the big idea, stated as a claim>", "d":
+   "<one sentence, under ~18 words, pointing to the concept or case that shows it>"}` so the card
+   fits one phone screen. These are the book's big ideas, the ones you most want the reader to keep:
+   not a table of contents. Write it last, after the other cards, so it distils what the deck
+   actually teaches. `"d"` starts lower-case. The Blink entry's preview is the model.
 1. 2–3 `argument` cards (90–120 words each): what the book claims, why it matters, and the
    frame the rest of the deck builds on.
 2. 16–20 `concept` and `case` cards, interleaved in the order the book develops them.

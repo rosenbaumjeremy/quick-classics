@@ -13,7 +13,7 @@ Append an entry to `site/data/lessons.json` (the library shows the newest first)
 ```
 
 Every deck opens with a `preview` card ("What you'll learn"): `"b"` is a one-line lead-in and
-`"pts"` is 3–5 `{"h": label, "d": sentence}` items. Other card kinds (`k`): `story`, `character`, `theme`, `lesson`, `reflect`, and `quote` (adds `"q"`, the quoted line).
+`"pts"` is 3–5 `{"h": big idea, "d": where the book shows it}` items: the book's big ideas, not an outline. Other card kinds (`k`): `story`, `character`, `theme`, `lesson`, `reflect`, and `quote` (adds `"q"`, the quoted line).
 
 ## Adding a non-fiction book
 
