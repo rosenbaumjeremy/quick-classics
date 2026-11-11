@@ -12,7 +12,8 @@ Append an entry to `site/data/lessons.json` (the library shows the newest first)
   "added": "YYYY-MM-DD", "cards": [ { "k": "story", "t": "Card title", "b": "Card body" } ] }
 ```
 
-Card kinds (`k`): `story`, `character`, `theme`, `lesson`, `reflect`, and `quote` (adds `"q"`, the quoted line).
+Every deck opens with a `preview` card ("What you'll learn"): `"b"` is a one-line lead-in and
+`"pts"` is 3–5 `{"h": label, "d": sentence}` items. Other card kinds (`k`): `story`, `character`, `theme`, `lesson`, `reflect`, and `quote` (adds `"q"`, the quoted line).
 
 ## Adding a non-fiction book
 
@@ -26,7 +27,7 @@ the shelf into sub-categories) and an optional `subtitle`:
   "added": "YYYY-MM-DD", "cards": [ { "k": "concept", "t": "Card title", "b": "Card body" } ] }
 ```
 
-Card kinds, in this order: 2–3 `argument` (the book's thesis), then `concept` (key ideas) and
+Card kinds, in this order: one `preview`, 2–3 `argument` (the book's thesis), then `concept` (key ideas) and
 `case` (the studies and stories behind them) interleaved in the book's order, one `quote`
 (paraphrased unless the book is public domain), 1–2 `critique` (where the evidence is disputed),
 4–8 `lesson`, and a final `reflect`. Argument, concept and case cards run 90–130 words so the

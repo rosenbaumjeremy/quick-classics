@@ -3,6 +3,16 @@
  "subtitle": "The Power of Thinking Without Thinking", "author": "Malcolm Gladwell", "year": 2005,
  "minutes": 18, "added": "2026-11-10", "cards": [
 
+{"k": "preview", "t": "What you'll learn",
+ "b": "In 18 minutes, you'll come away knowing:",
+ "pts": [
+  {"h": "Why snap judgments work", "d": "thin-slicing lets experts read a situation in seconds, like spotting a fake statue that months of tests missed."},
+  {"h": "Why we can't explain our hunches", "d": "your gut often knows before you do, and the reasons you give for it can be wrong."},
+  {"h": "When fast thinking fails", "d": "prejudice, stress and too much information, from a Bronx shooting to New Coke."},
+  {"h": "How to protect good instincts", "d": "structure, simple rules, and screens like blind orchestra auditions."},
+  {"h": "Where the science has wobbled", "d": "what later research questions, plus six habits to take away."}
+ ]},
+
 {"k": "argument", "t": "The book in one breath",
  "b": "Blink is about the first two seconds: the judgments we make instantly, before we can say why. Gladwell's claim is that these snap decisions are not lazy guesses. They come from a powerful part of the mind that spots patterns faster than conscious reasoning can, and they are often as accurate as careful analysis, sometimes more so. But the same machinery can be hijacked by prejudice, stress, or too much information, and then it fails badly. The book has three goals: to show that fast judgments can be excellent, to explain when we should trust them and when we should not, and to argue that we can train and protect them."},
 

@@ -81,6 +81,11 @@ button:focus-visible,a:focus-visible{outline:3px solid var(--theme);outline-offs
 .save[aria-pressed="true"]{background:var(--card-fg);color:var(--fg)}
 .save svg{width:14px;height:14px}
 .story{background:var(--story)} .character{background:var(--character)} .theme{background:var(--theme)} .lesson{background:var(--lesson)} .reflect{background:var(--reflect)}
+.preview{background:linear-gradient(160deg,var(--cover) 0%,var(--reflect) 100%)}
+.pts{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:12px;max-width:62ch}
+.pts li{font-size:15px;line-height:1.5;padding-left:16px;position:relative;opacity:.95}
+.pts li::before{content:"";position:absolute;left:0;top:.6em;width:6px;height:6px;border-radius:50%;background:currentColor;opacity:.6}
+.pts b{font-weight:800}
 .cover{background:linear-gradient(155deg,var(--cover) 0%, var(--character) 60%, var(--lesson) 120%);justify-content:flex-end}
 .cover .day{font-size:12px;font-weight:800;letter-spacing:.2em;text-transform:uppercase;opacity:.8}
 .cover h2{font-size:clamp(44px,13vw,60px)}

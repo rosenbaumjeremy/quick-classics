@@ -1,7 +1,7 @@
 "use strict";
 // Offline copy of the site. Online, files come from the network first (up to 4s) so new books
 // show up; the saved copy is the fallback. Add any new site file to SHELL.
-const CACHE = "quick-classics-v2";
+const CACHE = "quick-classics-v3";
 const SHELL = ["./", "index.html", "app.css", "app.js", "offline.js", "icon.svg", "data/lessons.json", "data/nonfiction.json"];
 
 self.addEventListener("install", e => {

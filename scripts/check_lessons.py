@@ -10,8 +10,8 @@ import os
 import re
 import sys
 
-CLASSIC_KINDS = {"story", "character", "theme", "lesson", "quote", "reflect"}
-NONFICTION_KINDS = {"argument", "concept", "case", "critique", "lesson", "quote", "reflect"}
+CLASSIC_KINDS = {"preview", "story", "character", "theme", "lesson", "quote", "reflect"}
+NONFICTION_KINDS = {"preview", "argument", "concept", "case", "critique", "lesson", "quote", "reflect"}
 LONG_KINDS = {"argument", "concept", "case"}  # non-fiction cards that must explain, not just name
 
 errors = []
@@ -54,8 +54,18 @@ def check_common(l, where, kinds, extra_keys=()):
         for key in ("t", "b"):
             if not isinstance(c.get(key), str) or not c[key].strip():
                 errors.append(f"{cw}: '{key}' missing or empty")
+        if c.get("k") == "preview":
+            if i != 0:
+                errors.append(f"{cw}: the preview card must be the first card")
+            pts = c.get("pts")
+            if not (isinstance(pts, list) and 3 <= len(pts) <= 5
+                    and all(isinstance(p, dict) and all(isinstance(p.get(x), str) and p[x].strip() for x in ("h", "d"))
+                            for p in pts)):
+                errors.append(f"{cw}: preview card needs 'pts': 3-5 items, each with 'h' and 'd'")
         if c.get("k") == "quote" and not (isinstance(c.get("q"), str) and c["q"].strip()):
             errors.append(f"{cw}: quote card needs 'q'")
+    if not cards or not isinstance(cards[0], dict) or cards[0].get("k") != "preview":
+        errors.append(f"{where}: first card must be a 'preview' (What you'll learn)")
     return [c for c in cards if isinstance(c, dict)]
 
 

@@ -2,7 +2,7 @@
 // Quick Classics: a library with shelves (Classics at #library, Non-Fiction at #nonfiction) and a
 // swipeable deck of ideas per book (#<id>). Classics live in data/lessons.json, non-fiction in
 // data/nonfiction.json; a book's saved ideas are kept on the device (localStorage).
-const LABEL = {story:"The story", character:"Characters", theme:"Big idea", lesson:"Lesson", reflect:"Reflect", quote:"Key line",
+const LABEL = {preview:"Overview", story:"The story", character:"Characters", theme:"Big idea", lesson:"Lesson", reflect:"Reflect", quote:"Key line",
   argument:"The argument", concept:"Key concept", case:"Case study", critique:"The debate"};
 // non-fiction kinds borrow the classics' card colours
 const COLOR = {quote:"reflect", argument:"story", concept:"theme", case:"character", critique:"reflect"};
@@ -12,6 +12,7 @@ const SHELF = {
   nonfiction: {hash:"nonfiction", cover:"Non-Fiction", eyebrow:"Ideas that changed how we think",
                sub:"Landmark non-fiction, one swipeable idea at a time: the argument, the key concepts, the evidence behind them and what they mean for you."}
 };
+const SAVE_KEY = "qc-saved-v2-";
 const esc = s => String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const bm = '<svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4-7 4V4a1 1 0 0 1 1-1z"/></svg>';
 const $ = id => document.getElementById(id);
@@ -35,7 +36,12 @@ function renderLibrary(s){
 
 function openDeck(l){
   book = l; deck = [{k:"cover"}, ...l.cards]; cur = 0;
-  try { saved = new Set(JSON.parse(localStorage.getItem("qc-saved-" + l.id) || "[]")); } catch(e) { saved = new Set(); }
+  // v2 keys: every deck gained a "What you'll learn" card at the front, so saves made before it moved up by one
+  try {
+    let raw = localStorage.getItem(SAVE_KEY + l.id);
+    if (raw === null) { const old = localStorage.getItem("qc-saved-" + l.id); raw = old ? JSON.stringify(JSON.parse(old).map(i => i + 1)) : "[]"; }
+    saved = new Set(JSON.parse(raw));
+  } catch(e) { saved = new Set(); }
   const stage = $("stage"), bars = $("bars"); stage.innerHTML = ""; bars.innerHTML = "";
   const n = k => l.cards.filter(x => x.k === k).length;
   const legend = l.shelf === "nonfiction"
@@ -49,6 +55,10 @@ function openDeck(l){
         ${l.subtitle ? `<div class="subtitle">${esc(l.subtitle)}</div>` : ""}
         <div class="by">${esc(l.author)} · ${esc(l.year)}</div>
         <div class="legend">${legend.filter(x => x[0]).map(x => `<span>${x[0]} ${x[1]}</span>`).join("")}</div>`;
+    } else if (c.k === "preview") {
+      el.innerHTML = `<span class="tag">${LABEL[c.k]}</span><h2>${esc(c.t)}</h2><p>${esc(c.b)}</p>
+        <ul class="pts">${(c.pts || []).map(p => `<li><b>${esc(p.h)}:</b> ${esc(p.d)}</li>`).join("")}</ul>
+        <div class="foot"><span>${esc(l.title)}</span></div>`;
     } else {
       el.innerHTML = `<span class="tag">${LABEL[c.k]}</span><h2>${esc(c.t)}</h2>
         ${c.q ? `<blockquote>${esc(c.q)}</blockquote>` : ""}<p>${esc(c.b)}</p>
@@ -88,7 +98,7 @@ $("stage").addEventListener("click", e => {
   const s = e.target.closest(".save"); if (!s) return;
   const i = +s.dataset.i; saved.has(i) ? saved.delete(i) : saved.add(i);
   s.setAttribute("aria-pressed", saved.has(i)); s.querySelector("span").textContent = saved.has(i) ? "Saved" : "Save idea";
-  try { localStorage.setItem("qc-saved-" + book.id, JSON.stringify([...saved])); } catch(err) {}
+  try { localStorage.setItem(SAVE_KEY + book.id, JSON.stringify([...saved])); } catch(err) {}
 });
 
 // Swipe (touch or mouse drag). Styles are set through CSSOM, which the site's CSP allows.
