@@ -8,8 +8,9 @@ classic work: a swipeable deck of idea cards (story, characters, big ideas, less
 
 ## Step 1: which book
 
-Compute **N = (today's date in Asia/Jerusalem − 2026-11-06, in days) + 1**. Day 1 (2026-11-06)
-was Pride and Prejudice. Use book number N from the list below.
+Compute **N = (today's date in Asia/Jerusalem − 2026-11-13, in days) + 18**. Day 1 (2026-11-06)
+was Pride and Prejudice; Days 8–17 were added in bulk on 2026-11-13, so Friday 2026-11-13 is
+Day 18, Saturday 2026-11-14 is Day 19, and so on. Use book number N from the list below.
 
 - If an entry with `"id": "day-N"` already exists in `site/data/lessons.json`, **stop**:
   today's lesson is done.
