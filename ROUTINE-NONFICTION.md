@@ -13,8 +13,9 @@ argument, its key concepts and the evidence behind them, not just their names.
 Use today's date in Israel (`TZ=Asia/Jerusalem date +%F`).
 
 - If today is before **2026-11-13**, **stop**: the routine has not started yet.
-- Compute **N = (today − 2026-11-13, in days) + 2**. Book 1 (Blink) was added by hand; Friday
-  2026-11-13 is Book 2. Use book number N from the list below.
+- Compute **N = (today − 2026-11-13, in days) + 19**. Book 1 (Blink) was added by hand and
+  Books 2–18 were added in bulk, so Friday 2026-11-13 is Book 19, Saturday 2026-11-14 is Book 20,
+  and so on. Use book number N from the list below.
 - If an entry with `"id": "nf-N"` already exists in `site/data/nonfiction.json`, **stop**:
   today's book is done.
 - If N is past the end of the list, choose an influential non-fiction book of comparable stature
