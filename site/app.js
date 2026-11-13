@@ -29,10 +29,13 @@ function renderLibrary(s){
   const list = [...BOOKS[s]].reverse();
   $("grid").innerHTML = list.length ? list.map((l, i) => `<a class="tile g${i % 4}" href="#${esc(l.id)}">
       <span class="day">${esc(l.category || l.label)} · ${esc(l.minutes)} min</span>
-      <h2>${esc(l.title)}</h2><span class="by">${esc(l.author)} · ${esc(l.year)}</span>
+      <h2>${esc(l.title)}</h2><span class="by">${esc(l.author)} · ${esc(yr(l.year))}</span>
       <span class="n">${l.cards.length} ideas</span></a>`).join("")
     : '<p class="note">No books on this shelf yet.</p>';
 }
+
+// ancient works store negative years for BC
+const yr = y => y < 0 ? `${-y} BC` : y < 1000 ? `AD ${y}` : y;
 
 function openDeck(l){
   book = l; deck = [{k:"cover"}, ...l.cards]; cur = 0;
@@ -53,7 +56,7 @@ function openDeck(l){
     if (c.k === "cover") {
       el.innerHTML = `<span class="day">${esc(l.category || l.label)} · ${esc(l.minutes)} min read</span><h2>${esc(l.title)}</h2>
         ${l.subtitle ? `<div class="subtitle">${esc(l.subtitle)}</div>` : ""}
-        <div class="by">${esc(l.author)} · ${esc(l.year)}</div>
+        <div class="by">${esc(l.author)} · ${esc(yr(l.year))}</div>
         <div class="legend">${legend.filter(x => x[0]).map(x => `<span>${x[0]} ${x[1]}</span>`).join("")}</div>`;
     } else if (c.k === "preview") {
       el.innerHTML = `<span class="tag">${LABEL[c.k]}</span><h2>${esc(c.t)}</h2><p>${esc(c.b)}</p>
