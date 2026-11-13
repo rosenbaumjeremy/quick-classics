@@ -3133,5 +3133,185 @@
     "b": "Emma was sure she understood everyone in Highbury and was wrong about almost all of them. Who in your life might you have misjudged, too quickly or too confidently? What question could you ask them that would help you see them more clearly?"
    }
   ]
+ },
+ {
+  "id": "day-18",
+  "label": "Day 18",
+  "title": "A Tale of Two Cities",
+  "author": "Charles Dickens",
+  "year": 1859,
+  "minutes": 10,
+  "added": "2026-11-13",
+  "cards": [
+   {
+    "k": "preview",
+    "t": "What you'll learn",
+    "b": "If you remember nothing else, remember this:",
+    "pts": [
+     {
+      "h": "Cruelty breeds cruelty",
+      "d": "the Evremondes' crimes create Madame Defarge, and the Revolution's justice becomes a new tyranny."
+     },
+     {
+      "h": "No life is beyond redemption",
+      "d": "wasted, drunken Sydney Carton finds meaning in one final act of love on the scaffold."
+     },
+     {
+      "h": "The past is never truly buried",
+      "d": "Doctor Manette's hidden Bastille letter returns, eighteen years later, to condemn the man his daughter loves."
+     },
+     {
+      "h": "Love is stronger than hatred",
+      "d": "Lucie's devotion and Miss Pross's loyalty defeat Madame Defarge's long-nursed vengeance."
+     }
+    ]
+   },
+   {
+    "k": "story",
+    "t": "The best of times, the worst of times",
+    "b": "The year is 1775. England and France both believe their rulers are secure, yet France is bleeding its poor to feed a decadent aristocracy, and England is plagued by highwaymen and hangings. Jarvis Lorry, a dry, devoted clerk of Tellson's Bank, rides the night mail coach to Dover with a strange message: 'Recalled to life.' There he meets Lucie Manette, a gentle seventeen-year-old raised in England as an orphan. He tells her that her father, a French doctor she believed dead, is alive, freshly released after eighteen years of secret imprisonment."
+   },
+   {
+    "k": "story",
+    "t": "The shoemaker in the garret",
+    "b": "In Saint Antoine, a starving quarter of Paris, a wine cask breaks in the street and the poor scramble to drink from the gutter; one man scrawls BLOOD on a wall in wine. Above the wine shop of Ernest Defarge, Lucie's father's old servant, Doctor Alexandre Manette sits in a dark garret making shoes. He knows himself only as 'One Hundred and Five, North Tower,' his old Bastille cell. Lucie's golden hair and voice stir his memory, and she and Lorry carry him to London. Madame Defarge watches, silently knitting."
+   },
+   {
+    "k": "story",
+    "t": "A treason trial at the Old Bailey",
+    "b": "Five years later, in 1780, a young Frenchman named Charles Darnay, a tutor living in England, stands trial at the Old Bailey for spying for France. Lucie and her father, called as unwilling witnesses, had met him on the crossing from Calais. Two shady informers, John Barsad and Roger Cly, swear against him. The case collapses when his lawyer, the pushing Mr. Stryver, points to Stryver's own assistant, Sydney Carton: Carton looks so exactly like Darnay that a witness cannot be sure whom he saw. Darnay is acquitted."
+   },
+   {
+    "k": "story",
+    "t": "The jackal and the golden thread",
+    "b": "Sydney Carton is brilliant but has thrown his life away to drink and despair. He does the real legal work for Stryver at night, soaking towels in cold water, while Stryver takes the credit; he is the lion's 'jackal.' Carton envies Darnay, the man he might have been. Lucie, meanwhile, becomes the 'golden thread' that binds her healing father to life in their quiet house in Soho, kept by her fierce, red-haired, utterly loyal companion Miss Pross. Darnay, Stryver and Carton all become regular visitors, and all three love Lucie."
+   },
+   {
+    "k": "story",
+    "t": "Drive him fast to his tomb",
+    "b": "In France, the Marquis St. Evremonde's carriage races through Paris and crushes a poor child. The Marquis tosses a gold coin to the weeping father, Gaspard, and complains about his horses; someone throws the coin back. At his chateau that night he meets his nephew, who is none other than Charles Darnay. Charles renounces the family's cruel estate and his name, and says he will earn his own living in England. By morning the Marquis lies stabbed in his bed with a note: 'Drive him fast to his tomb. This, from Jacques.' Gaspard is later hanged."
+   },
+   {
+    "k": "story",
+    "t": "Proposals and a promise",
+    "b": "Back in London, Stryver plans to condescend to marry Lucie; Mr. Lorry talks him out of the humiliation. Carton visits Lucie alone and confesses that she has stirred the last dream of his wasted soul. He asks nothing, but says he would give his life to keep a life she loves beside her. Darnay asks Doctor Manette for Lucie's hand, and Manette asks him to reveal his true name only on the wedding morning. When Darnay does, Manette suffers a shock and relapses into shoemaking for nine days."
+   },
+   {
+    "k": "story",
+    "t": "A wedding and a resurrection man",
+    "b": "Lucie and Darnay marry and later have a daughter, little Lucie; a son dies young. Miss Pross and Mr. Lorry secretly chop up the shoemaker's bench so the doctor cannot slip back. A comic subplot runs alongside: Jerry Cruncher, Tellson's odd-job porter, abuses his pious wife for 'flopping' to pray against him, and works nights as a 'resurrection man,' digging up corpses to sell to doctors. When he tries to steal the body of the spy Roger Cly, he finds the coffin full of stones. Cly faked his death."
+   },
+   {
+    "k": "story",
+    "t": "Knitting the register",
+    "b": "In Saint Antoine, the Defarges lead a secret network of revolutionaries who all call themselves 'Jacques.' Madame Defarge records the names of aristocrats and spies doomed to die by knitting them into a pattern only she can read. When the spy Barsad comes to the wine shop to fish for information, she calmly knits his name in. He tells them, to wound them, that Lucie has married Charles Darnay, the nephew of the murdered Marquis and the true heir of Evremonde. Defarge is shaken; his wife only adds the name."
+   },
+   {
+    "k": "story",
+    "t": "The storm breaks",
+    "b": "On 14 July 1789, the sea of Saint Antoine rises. Defarge leads the crowd against the Bastille, and Madame Defarge, axe in hand, cuts off the governor's head. Defarge hurries to cell One Hundred and Five, North Tower, and searches it carefully. Soon the hated official Foulon, who said the starving could eat grass, is lynched in the street, and the Evremonde chateau burns while its villagers watch. The estate's loyal steward, Gabelle, is seized by the revolutionaries. The years of rage the novel has been patiently building are released."
+   },
+   {
+    "k": "story",
+    "t": "Drawn to the loadstone rock",
+    "b": "In 1792 a desperate letter reaches Darnay at Tellson's from Gabelle, now imprisoned in Paris and condemned for serving the aristocrat Darnay himself. Feeling honor bound, and naively trusting in his own good intentions, Darnay slips away to France without telling Lucie. He is arrested at once as a returning emigrant and thrown into La Force prison. Lucie, her daughter, Doctor Manette, Miss Pross and Mr. Lorry follow him to Paris. Manette, revered as a former prisoner of the Bastille, uses his influence for his son-in-law during the September massacres."
+   },
+   {
+    "k": "story",
+    "t": "Freed, then taken again",
+    "b": "For fifteen months Darnay waits in prison while the guillotine works daily. Lucie stands every afternoon at a spot on the street where he might glimpse her from a window. At last he is tried before the Revolutionary Tribunal, where Manette's testimony wins his acquittal, and the crowd carries him home in triumph. But that very evening, soldiers come to rearrest him. He has been denounced again, by Citizen and Citizeness Defarge and by one other person, whose name will be revealed in the morning's trial."
+   },
+   {
+    "k": "story",
+    "t": "The letter from the Bastille",
+    "b": "The other accuser is Doctor Manette himself. Defarge reads aloud a letter he found hidden in cell One Hundred and Five. In 1757, Manette wrote, the twin Evremonde brothers, Darnay's father and uncle, summoned him to treat a peasant girl they had violated and her brother, whom they had run through with a sword. Both died. When Manette tried to report the crime, the brothers had him buried in the Bastille. He cursed their whole line. The jury condemns Darnay to die within twenty-four hours. Manette collapses back into madness."
+   },
+   {
+    "k": "story",
+    "t": "A far better thing",
+    "b": "Sydney Carton has quietly come to Paris. He recognizes Barsad, now a jailer-spy, as Miss Pross's long-lost brother Solomon, and blackmails him into getting him inside the prison. In the wine shop, Carton overhears Madame Defarge, the dead peasant girl's sister, plotting to denounce Lucie and her child too. He has Lorry ready a coach for escape. In Darnay's cell, Carton drugs him, exchanges clothes, and has him carried out as 'Carton.' The family flees Paris, while Carton waits, wearing Darnay's coat, for the guillotine."
+   },
+   {
+    "k": "quote",
+    "t": "Carton's last thought",
+    "q": "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest that I go to than I have ever known.",
+    "b": "Dickens gives these words to Carton as he mounts the scaffold in Darnay's place, as the thought he would have spoken. The man who called himself worthless discovers, in a single act of love, the meaning his whole life had lacked. It is the novel's moral climax and one of the most famous endings in English."
+   },
+   {
+    "k": "story",
+    "t": "The knitting stops",
+    "b": "Madame Defarge, pistol hidden in her dress, goes to Lucie's lodgings to catch her mourning, which is now a crime. She finds only Miss Pross, who has stayed behind to cover the escape. The two women cannot understand each other's language, but each understands the other's purpose. They grapple; Madame Defarge's pistol fires, and she is killed. Miss Pross is left deaf for life. In the tumbril, Carton holds the hand of a frightened young seamstress, comforts her, and goes calmly to his death, foreseeing a better Paris and Lucie's son bearing his name."
+   },
+   {
+    "k": "character",
+    "t": "Sydney Carton: the wasted life redeemed",
+    "b": "Carton is clever, self-mocking and drowning in drink, a man who believes he is fit for nothing. Yet he is the most deeply feeling person in the book. His love for Lucie asks for nothing, and when the moment comes he gives everything. Dickens makes his apathy and his heroism two sides of one truth: he cared nothing for his life until it could save someone else's."
+   },
+   {
+    "k": "character",
+    "t": "Madame Defarge: vengeance knitting",
+    "b": "Therese Defarge is one of Dickens's most terrifying creations: calm, patient, tireless, knitting death warrants into her wool. Yet we learn she is the sister of the Evremondes' victims, her whole family destroyed by aristocratic cruelty. Her rage is earned, but it has swallowed everything else, including mercy for a child. She shows how justified grievance, nursed long enough, becomes its own kind of tyranny."
+   },
+   {
+    "k": "character",
+    "t": "Doctor Manette: the buried man",
+    "b": "Manette is a man the past nearly destroyed. Eighteen years of solitude reduced a brilliant physician to a shoemaker who did not know his own name. Lucie's love restores him, and in Paris he becomes strong and honored. But the letter he wrote in his darkest hour comes back to condemn his son-in-law, showing that what we write in rage may outlive our forgiveness."
+   },
+   {
+    "k": "theme",
+    "t": "Resurrection, again and again",
+    "b": "'Recalled to life' is the book's refrain. Manette is dug out of the Bastille, Darnay is twice saved from death, Roger Cly fakes his burial, and Jerry Cruncher digs up graves for money, a grim parody of the theme. The truest resurrection is spiritual: Carton, dead inside for years, is reborn by giving his life. Dickens asks what makes a life worth calling back."
+   },
+   {
+    "k": "theme",
+    "t": "Oppression sows revolution",
+    "b": "Dickens has no sympathy for the old aristocracy: the Marquis who runs down a child, the brothers who rape and kill at will. The Revolution is their harvest. But he is equally horrified by what follows: the Terror's mob trials and daily executions. 'Crush humanity out of shape once more,' he warns, 'and it will twist itself into the same tortured forms.' Injustice repeats itself in new costumes."
+   },
+   {
+    "k": "theme",
+    "t": "Doubles and divided selves",
+    "b": "The novel is built on pairs: London and Paris, Darnay and Carton, Lucie and Madame Defarge, Miss Pross and her rival. Darnay and Carton look alike but have chosen different lives, one honorable, one wasted. The likeness that saves Darnay in the first trial saves him again at the end. Each double asks the reader which self we are choosing to become."
+   },
+   {
+    "k": "lesson",
+    "t": "It is never too late to matter",
+    "b": "Carton spends most of the novel convinced that his life is a ruin. Yet in the end he does the most important thing anyone in the book does. Whatever we have wasted, the next choice remains ours. A single act of real courage or generosity can give shape and meaning to everything that came before it."
+   },
+   {
+    "k": "lesson",
+    "t": "Unchecked anger grows into injustice",
+    "b": "Madame Defarge has every reason to hate the Evremondes, but she cannot stop at the guilty. She wants Darnay, who renounced them, and then Lucie and a little girl. Grievances that are fed for years stop distinguishing between the guilty and the innocent. Name your anger honestly, but watch whether it is turning you into what you hated."
+   },
+   {
+    "k": "lesson",
+    "t": "Good intentions are not a plan",
+    "b": "Darnay rushes to Paris to save Gabelle, sure that his own decency will protect him. Instead he is arrested at the border and drags his whole family into danger. Noble motives deserve careful thinking about consequences. Before a brave rescue, ask who else will pay if it goes wrong, and tell the people who love you."
+   },
+   {
+    "k": "lesson",
+    "t": "Love can heal deep wounds",
+    "b": "Manette leaves the Bastille barely human, and Lucie's patient tenderness brings him back. When he relapses after the wedding, Lorry and Miss Pross respond not with alarm but with quiet care. People we love often heal slowly and sometimes slide backward. Steady, unglamorous presence over months and years does more than any dramatic rescue."
+   },
+   {
+    "k": "lesson",
+    "t": "Loyalty is a form of courage",
+    "b": "Miss Pross is comic, stubborn and fiercely English, and she proves braver than anyone. Alone, she blocks the door against Madame Defarge to buy the family time, and pays with her hearing. Loyalty does not need eloquence or power. Sometimes the greatest service is simply standing where you are needed and refusing to move."
+   },
+   {
+    "k": "lesson",
+    "t": "What we write can outlast what we feel",
+    "b": "In the Bastille, Manette wrote a curse on the Evremondes and every descendant. Years later, healed and loving his son-in-law, he cannot unwrite it, and his words condemn Darnay. Things written or said in fury can be found long after the fury has passed. Before you commit anger to paper, imagine it read aloud a decade from now."
+   },
+   {
+    "k": "lesson",
+    "t": "Small kindnesses at the darkest hour",
+    "b": "On the way to the guillotine, Carton spends his last minutes comforting a young seamstress he has never met, holding her hand so she can face death bravely. Even when we cannot change the outcome, we can change how someone meets it. Kindness offered in hopeless moments is never wasted; it may be the only thing that matters."
+   },
+   {
+    "k": "reflect",
+    "t": "Something to think about today",
+    "b": "Sydney Carton believed his life was wasted until he found something worth giving it for. What, or who, would you be willing to sacrifice for? And is there a small way today to live toward that, rather than waiting for a great moment?"
+   }
+  ]
  }
 ]
