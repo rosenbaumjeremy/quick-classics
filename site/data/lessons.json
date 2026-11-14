@@ -3313,5 +3313,185 @@
     "b": "Sydney Carton believed his life was wasted until he found something worth giving it for. What, or who, would you be willing to sacrifice for? And is there a small way today to live toward that, rather than waiting for a great moment?"
    }
   ]
+ },
+ {
+  "id": "day-19",
+  "label": "Day 19",
+  "title": "The Scarlet Letter",
+  "author": "Nathaniel Hawthorne",
+  "year": 1850,
+  "minutes": 10,
+  "added": "2026-11-14",
+  "cards": [
+   {
+    "k": "preview",
+    "t": "What you'll learn",
+    "b": "If you remember nothing else, remember this:",
+    "pts": [
+     {
+      "h": "Hidden guilt destroys more than open shame",
+      "d": "Hester survives her public punishment and grows strong, while Dimmesdale's secret sin eats him alive."
+     },
+     {
+      "h": "Revenge consumes the avenger",
+      "d": "Chillingworth's seven-year hunt for Dimmesdale turns a quiet scholar into a withered fiend with nothing left to live for."
+     },
+     {
+      "h": "A label does not get the last word",
+      "d": "the town's mark of shame comes to read 'Able' as Hester's patient charity rewrites its meaning."
+     },
+     {
+      "h": "A community without mercy breeds hypocrisy",
+      "d": "Boston's harsh judges revere a minister who shares Hester's sin and simply hides it better."
+     }
+    ]
+   },
+   {
+    "k": "story",
+    "t": "A rose beside the prison door",
+    "b": "Hawthorne opens with 'The Custom-House,' a sketch of his own dull job at the Salem customs office, where he claims to have found a faded scrap of scarlet cloth shaped like an A, wrapped in an old surveyor's account of a woman named Hester Prynne. The tale then leaps back two centuries to Puritan Boston in the 1640s, a stern young colony where church and state are one and sin is a public crime. Outside the grim prison door grows a single wild rosebush."
+   },
+   {
+    "k": "story",
+    "t": "The woman on the scaffold",
+    "b": "The prison door opens and Hester Prynne steps out, a tall, dark-haired young woman carrying a three-month-old baby. On her breast is a scarlet A for adultery, which she has embroidered so richly in gold thread that it looks like defiance. Her husband never arrived in the colony, so the child cannot be his. She must stand on the scaffold for three hours while the townswomen jeer, and the magistrates and the Reverend John Wilson press her to name the father. She refuses."
+   },
+   {
+    "k": "story",
+    "t": "A pale minister and a stranger",
+    "b": "The man asked to make the final appeal is her own pastor, the Reverend Arthur Dimmesdale, a young, brilliant, painfully sensitive minister adored by the town. He urges her, trembling, to speak the father's name, and she still refuses. In the crowd stands a small, misshapen, elderly stranger who has just arrived after a long captivity among the Native peoples. Hester knows him at once: he is her husband, a cold scholar she married without love in Europe and who sent her ahead to America."
+   },
+   {
+    "k": "story",
+    "t": "A husband's secret vow",
+    "b": "That night the stranger visits Hester in prison, presenting himself as a physician named Roger Chillingworth. He soothes the feverish baby and admits he wronged Hester by marrying her, young and unloving, when he was old and bookish. But he swears he will find her lover: he will read the man's guilt in his face and possess his soul. He makes Hester promise never to reveal that Chillingworth is her husband. She agrees, uneasily sensing she has made a pact with something dark."
+   },
+   {
+    "k": "story",
+    "t": "Hester and her strange child",
+    "b": "Released, Hester could flee, but she stays in Boston, living in a lonely cottage on the edge of town by the sea. She earns her bread with exquisite needlework that the whole colony wears, from ruffs to burial shrouds, though never a bride's veil. She nurses the sick and gives to the poor, who often insult her. Her daughter, Pearl, named because she was bought at great price, grows into a wild, brilliant, elfin child, dressed by her mother in scarlet like a living letter."
+   },
+   {
+    "k": "story",
+    "t": "Fighting to keep Pearl",
+    "b": "When Pearl is three, rumors spread that the magistrates mean to take her away and raise her properly. Hester goes to Governor Bellingham's mansion to plead. Asked by Mr. Wilson who made her, Pearl impishly declares she was plucked from the prison rosebush. Things look grim until Hester turns desperately to Dimmesdale, and he argues with startling passion that God gave Pearl to Hester as both blessing and reminder. Pearl stays with her mother. Watching closely, Chillingworth notes how fiercely the minister spoke."
+   },
+   {
+    "k": "story",
+    "t": "The leech and his patient",
+    "b": "Dimmesdale's health is failing; he grows thin and keeps pressing a hand over his heart. The town rejoices when the learned Chillingworth becomes his doctor, and the two men even move into the same house. Chillingworth probes his patient's mind with patient, needling questions, suspecting a hidden wound. One noon, finding the minister in a deep sleep, he pulls aside his vestment and sees something on his chest. His face fills with a wild, Satanic joy. He now knows, and he begins his slow torture."
+   },
+   {
+    "k": "story",
+    "t": "A midnight vigil",
+    "b": "Dimmesdale punishes himself in private with a bloody scourge, fasting and sleepless vigils, while his sermons, fed by his anguish, grow ever more powerful and beloved. One night he climbs the scaffold alone. Hester and Pearl pass by, returning from Governor Winthrop's deathbed, and he calls them up to stand hand in hand with him. Pearl asks if he will stand with them at noon tomorrow; he says not yet. A meteor seems to trace a great A across the sky. Chillingworth watches from below."
+   },
+   {
+    "k": "story",
+    "t": "Seven years change a letter",
+    "b": "Seven years have passed. Hester's quiet charity has softened the town, and many now say her A stands for Able. Yet she sees that Dimmesdale is being destroyed and blames her promise of secrecy. Meeting Chillingworth gathering herbs on the shore, she is shocked by how he has changed: once a mild scholar, he has become a fiend, feeding on another man's pain. He refuses to show mercy, so Hester resolves to break her promise and warn the minister herself."
+   },
+   {
+    "k": "story",
+    "t": "The meeting in the forest",
+    "b": "Hester waits for Dimmesdale on a path through the dark forest and finally tells him the truth: his doctor is her wronged husband. He is horrified and angry, then forgives her. Away from the town's eyes, Hester urges him to flee with her and Pearl to Europe and begin again. He agrees. Hester unfastens the scarlet letter, tosses it beside the brook and lets down her long, rich hair. Sunlight floods the gloomy forest, and for a moment both seem young and free."
+   },
+   {
+    "k": "quote",
+    "t": "A love that felt sacred",
+    "q": "What we did had a consecration of its own. We felt it so! We said so to each other!",
+    "b": "Hester says this to Dimmesdale in the forest, at the hinge of the book. It is a startling claim in a Puritan world: that their love, whatever the law called it, was holy to them. For a moment she speaks as a free woman, and it is exactly that freedom that the novel will test."
+   },
+   {
+    "k": "story",
+    "t": "Pearl will not cross the brook",
+    "b": "Hester calls Pearl over to meet the minister, but the child stops on the far bank of the brook, points at her mother's breast and throws a furious tantrum until Hester picks up the scarlet letter and pins it back on. Only then does Pearl come, and when Dimmesdale kisses her brow, she runs to the brook and washes the kiss away. The plan holds: a ship bound for Bristol leaves in four days, just after Dimmesdale preaches the great Election Day sermon."
+   },
+   {
+    "k": "story",
+    "t": "Election Day",
+    "b": "Dimmesdale returns to town giddy, tempted to whisper blasphemies to a deacon and a pious widow, and the witch Mistress Hibbins hints she knows where he has been. He burns his old sermon and writes a new one all night. On Election Day, amid crowds, sailors and Native visitors, Hester learns from the ship's captain that Chillingworth has booked passage on the same ship. Then Dimmesdale preaches the most inspired sermon of his life, and the town hails him as a saint."
+   },
+   {
+    "k": "story",
+    "t": "Confession on the scaffold",
+    "b": "Leaving the meeting house in triumph, Dimmesdale suddenly falters. He calls Hester and Pearl to him and, leaning on Hester, climbs the scaffold as Chillingworth begs him to stop: there was no place so secret, he cries, that the minister could have escaped him, save this one. Dimmesdale confesses before all Boston that he is Pearl's father and tears open his shirt. Pearl kisses him at last, and her tears break the spell on her. He dies on the scaffold."
+   },
+   {
+    "k": "story",
+    "t": "After the letter",
+    "b": "Witnesses argue about what they saw: some describe a scarlet A in the minister's flesh, others nothing at all. Robbed of his purpose, Chillingworth withers and dies within a year, leaving his large fortune to Pearl. Hester and Pearl vanish to Europe. Years later Hester returns alone, by her own choice, still wearing the letter, and becomes a counsellor to troubled women. Pearl seems to have married well abroad. Hester is buried near Dimmesdale, beneath one stone marked with a scarlet A."
+   },
+   {
+    "k": "character",
+    "t": "Hester Prynne: strength under sentence",
+    "b": "Hester turns punishment into a kind of art: she embroiders her badge of shame so beautifully that it becomes her own. Proud, passionate and fiercely loyal, she keeps her lover's secret for seven years and raises Pearl alone. Isolation makes her a free and radical thinker, though Hawthorne worries over it. She is one of the first great heroines of American fiction."
+   },
+   {
+    "k": "character",
+    "t": "Arthur Dimmesdale: the hidden sinner",
+    "b": "Gifted, gentle and admired as a near-saint, Dimmesdale shares Hester's sin but lacks her courage. He hates his hypocrisy yet cannot give up his reputation, so he punishes himself in secret instead. His suffering makes him a better preacher and a worse man. Only when death is near does he find the strength to stand where Hester stood."
+   },
+   {
+    "k": "character",
+    "t": "Roger Chillingworth: the cold avenger",
+    "b": "A learned, patient scholar, Chillingworth is the most wronged person in the story, and he becomes its worst sinner. Instead of seeking justice, he chooses intimacy with his victim, living beside Dimmesdale as his doctor and feeding on his pain. Hawthorne calls his crime the violation of a human heart. When his prey escapes into confession, he has nothing left."
+   },
+   {
+    "k": "theme",
+    "t": "Sin, secrecy and confession",
+    "b": "Three people sin, and each carries it differently. Hester's sin is public, so she can live with it, repent and grow. Dimmesdale's is hidden, so it festers into self-hatred. Chillingworth's is the coldest of all, yet looks like friendship. Hawthorne's verdict is clear: the secret, not the sin itself, does the deepest damage. As the narrator says, be true, show the world something of your worst."
+   },
+   {
+    "k": "theme",
+    "t": "What a symbol means",
+    "b": "The scarlet A was meant to mean one thing: Adulteress. But the letter keeps shifting. Hester's needlework makes it beautiful, her service makes people read it as Able, the sky seems to write it as Angel for Winthrop, and Dimmesdale carries it hidden on his flesh. Hawthorne shows that symbols do not fix people; people slowly change what symbols mean."
+   },
+   {
+    "k": "theme",
+    "t": "Law against nature",
+    "b": "Puritan Boston is a world of iron rules, gray clothes and watching eyes. Against it Hawthorne sets the wild rosebush, the sunlit forest and Pearl herself, untamed and truthful. The forest frees Hester's hair and heart, but the novel does not simply side with nature: Pearl insists on the letter, and lasting peace comes only through honesty within the community."
+   },
+   {
+    "k": "lesson",
+    "t": "Secrets cost more than shame",
+    "b": "Hester's punishment is brutal but short, and she builds a life after it. Dimmesdale escapes punishment and spends seven years rotting from within, his hand pressed to his heart. When you've done wrong, the confession you dread is usually lighter than the secret you'd carry. Owning a mistake early limits its power over you."
+   },
+   {
+    "k": "lesson",
+    "t": "Revenge eats the avenger",
+    "b": "Chillingworth had every reason to be angry. But by making another man's pain his life's project, he turns into a stooped, shadowy creature, and when Dimmesdale dies he withers within a year. Grudges promise satisfaction and deliver emptiness. If someone has wronged you, guard against letting them become the centre of your life."
+   },
+   {
+    "k": "lesson",
+    "t": "You can rewrite your label",
+    "b": "Boston gave Hester a single letter meant to define her forever. She didn't argue; she simply lived well, sewing, nursing and helping, until people read the A as Able. When others pin a label on you, steady, generous action over time can change what it means more surely than protest."
+   },
+   {
+    "k": "lesson",
+    "t": "Don't judge by the pulpit",
+    "b": "The townspeople despise Hester and worship Dimmesdale, though he committed the same sin and lied about it for years. Polished public virtue can hide private failure, and the loudest moralists are not always the most honest. Be slow to condemn and slow to idolize; most people are more complicated than their reputation."
+   },
+   {
+    "k": "lesson",
+    "t": "You can't run from yourself",
+    "b": "The forest plan to sail to Europe feels like freedom, yet Pearl won't come until the letter is back on, and Chillingworth books passage on the same ship. Changing places does not change what you carry. Real fresh starts begin with facing the truth where you are, as Dimmesdale finally does on the scaffold."
+   },
+   {
+    "k": "lesson",
+    "t": "Children see the truth",
+    "b": "Pearl constantly asks the questions adults avoid: why her mother wears the letter, why the minister holds his hand over his heart, why he won't stand with them by day. Her honesty is uncomfortable, but it pushes everyone toward truth. Listen to the awkward questions children ask; they often point straight at what you're hiding."
+   },
+   {
+    "k": "lesson",
+    "t": "Mercy builds better communities",
+    "b": "The goodwives at the scaffold want Hester branded on the forehead or hanged. Their harshness makes confession terrifying, which is exactly why Dimmesdale stays silent. A family, office or town that punishes every failing teaches people to hide them. Make it safe to admit mistakes, and you'll get more honesty."
+   },
+   {
+    "k": "reflect",
+    "t": "Something to think about today",
+    "b": "Hester wore her mistake openly and grew stronger; Dimmesdale hid his and was hollowed out. Is there something you've been carrying in secret, an error, a regret or a resentment, that might weigh less if you spoke it aloud to someone you trust? What would it take to set it down?"
+   }
+  ]
  }
 ]
