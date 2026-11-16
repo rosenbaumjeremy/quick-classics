@@ -3673,5 +3673,185 @@
     "b": "Emma believed happiness was always somewhere else: in Paris, in a chateau, in another man's arms. Where in your own life do you assume real happiness lies just over the horizon? What would change if you looked for something worth loving in the day you are actually living?"
    }
   ]
+ },
+ {
+  "id": "day-21",
+  "label": "Day 21",
+  "title": "Les Misérables",
+  "author": "Victor Hugo",
+  "year": 1862,
+  "minutes": 10,
+  "added": "2026-11-16",
+  "cards": [
+   {
+    "k": "preview",
+    "t": "What you'll learn",
+    "b": "If you remember nothing else, remember this:",
+    "pts": [
+     {
+      "h": "One act of mercy can remake a whole life",
+      "d": "the Bishop's gift of the silver candlesticks turns a hardened convict into a man who spends decades doing good."
+     },
+     {
+      "h": "Law without mercy becomes its own crime",
+      "d": "Javert hunts Valjean faithfully for twenty years, and breaks the moment he meets a goodness his rules cannot explain."
+     },
+     {
+      "h": "Poverty manufactures the 'criminals' society punishes",
+      "d": "a loaf of bread costs Valjean nineteen years; Fantine sells her hair, her teeth, then herself to feed her child."
+     },
+     {
+      "h": "Conscience is a battle fought alone, at night",
+      "d": "Valjean's sleepless 'tempest in a skull' over the Champmathieu trial shows that doing right costs everything you have built."
+     }
+    ]
+   },
+   {
+    "k": "story",
+    "t": "A convict walks into Digne",
+    "b": "October 1815. Napoleon has just fallen at Waterloo, the Bourbon kings are back, and France is a country of hungry poor and nervous respectable people. Into the little town of Digne trudges Jean Valjean, released from the prison galleys at Toulon after nineteen years: five for stealing a loaf of bread to feed his widowed sister's seven children, fourteen more for trying to escape. His yellow passport marks him as a dangerous ex-convict. Every inn turns him away, and even a dog kennel refuses him. He is bitter, strong as an ox, and full of hatred."
+   },
+   {
+    "k": "story",
+    "t": "The Bishop and the candlesticks",
+    "b": "An old woman points him to the house of Monseigneur Myriel, the Bishop of Digne, a man who has given his palace to a hospital and lives on almost nothing. Myriel feeds Valjean at his table, calls him 'monsieur', and gives him a bed. In the night Valjean steals the Bishop's silver plates and flees. Gendarmes drag him back next morning. Instead of accusing him, Myriel says the silver was a gift, and asks why Valjean forgot the silver candlesticks too. Then, quietly, he tells Valjean he has bought his soul for God."
+   },
+   {
+    "k": "quote",
+    "t": "Bought for good",
+    "q": "Jean Valjean, my brother, you no longer belong to evil, but to good. It is your soul that I buy from you; I withdraw it from black thoughts and the spirit of perdition, and I give it to God.",
+    "b": "The Bishop's words, from Isabel Hapgood's 1887 translation, are the hinge of the whole novel. Myriel answers theft with a gift and a claim on the thief's future. Everything Valjean becomes, every risk he later takes for strangers, is an attempt to be worthy of this one undeserved act of trust."
+   },
+   {
+    "k": "story",
+    "t": "From thief to Monsieur Madeleine",
+    "b": "Dazed, Valjean wanders off and, almost by reflex, steals a forty-sou coin from a small chimney-sweep, Petit Gervais. Then horror hits him; he searches for the boy in vain and weeps for the first time in nineteen years. It is his last crime. Late in 1815 a stranger reaches Montreuil-sur-Mer, finds a cheaper way to make imitation jet beads, and as Monsieur Madeleine grows rich, pays fair wages, founds schools and becomes mayor. Police inspector Javert, born in a prison, watches him. When Madeleine lifts a cart off old Fauchelevent, Javert recalls only one man that strong: a Toulon convict."
+   },
+   {
+    "k": "story",
+    "t": "Fantine's long fall",
+    "b": "Fantine, a lovely, trusting girl from Paris, was seduced and abandoned by a rich student, Tholomyès, leaving her with a baby daughter, Cosette. Needing work, she leaves the child with innkeepers at Montfermeil, the Thénardiers, who promise care and instead treat Cosette as a servant while extorting ever-larger payments. Fantine finds work in Madeleine's factory, but a forewoman discovers her illegitimate child and dismisses her without his knowledge. To keep paying, Fantine sells her hair, then her two front teeth, then her body. Sick and broken, she blames Madeleine for everything."
+   },
+   {
+    "k": "story",
+    "t": "Javert arrests, Madeleine rescues",
+    "b": "One winter night a dandy, Bamatabois, shoves snow down Fantine's dress; she attacks him, and Javert arrests her, sentencing her to six months, which would kill her. Madeleine intervenes and orders her freed, overruling Javert in front of her. Fantine spits in his face; he answers by paying her debts, nursing her in his own infirmary and promising to bring Cosette to her. Humiliated, Javert denounces Madeleine to Paris as the convict Jean Valjean, only to learn that 'Valjean' has just been arrested elsewhere. Ashamed, he begs the mayor to dismiss him."
+   },
+   {
+    "k": "story",
+    "t": "A tempest in a skull",
+    "b": "The man arrested, Champmathieu, is a confused old laborer facing life in the galleys in Valjean's place. Valjean spends a sleepless night in agony: silence keeps a town fed and lets him save Fantine; speaking frees an innocent man and sends himself back to chains. At the court in Arras he stands and declares, 'I am Jean Valjean.' He hurries back to Fantine, but Javert arrives to seize him, and she dies of shock. Returned to Toulon, Valjean in 1823 rescues a sailor from a warship's rigging, drops into the sea and is reported drowned. He has swum free."
+   },
+   {
+    "k": "story",
+    "t": "A doll in the dark woods",
+    "b": "On Christmas Eve 1823 Valjean reaches Montfermeil and finds eight-year-old Cosette alone in the night forest, hauling a bucket of water heavier than she is. He carries it for her. At the inn he sees how Madame Thénardier beats her and how the couple's daughters, Éponine and Azelma, are spoiled. He buys Cosette the magnificent doll from the toy stall she has been gazing at, then pays the scheming Thénardier fifteen hundred francs to take her away. For the first time, the child who has never been loved is held by someone who loves her."
+   },
+   {
+    "k": "story",
+    "t": "Over the convent wall",
+    "b": "They hide in the Gorbeau house, a shabby Paris tenement, but Javert, now in the Paris police, picks up the trail. One night he closes in with his men, and Valjean, carrying Cosette, flees through a maze of dark streets into a dead end. Using a lamp rope, he hauls them both over a high wall and lands in the garden of the Petit-Picpus convent, where the gardener is old Fauchelevent, whose life he once saved. To be admitted openly, Valjean is smuggled out in a coffin and nearly buried alive. Cosette grows up in the convent school."
+   },
+   {
+    "k": "story",
+    "t": "Marius, Waterloo and the students",
+    "b": "Now the novel turns to Marius Pontmercy, raised by his royalist grandfather, Monsieur Gillenormand, who kept him from his father, Colonel Georges Pontmercy, a hero of Napoleon's army. After the colonel's death Marius learns how his father loved him from afar, and of his last wish: to repay a sergeant called Thénardier, who 'saved' him at Waterloo but was really robbing corpses. Marius becomes a fervent Bonapartist, quarrels with his grandfather, and lives in poverty, falling in with the Friends of the ABC, republican students led by the fierce, beautiful Enjolras."
+   },
+   {
+    "k": "story",
+    "t": "Love in the Luxembourg Gardens",
+    "b": "Around 1831 Marius notices an old man and a young girl walking daily in the Luxembourg Gardens. The girl blossoms into beauty; Marius falls helplessly in love with Cosette, and Valjean, sensing danger, moves house. In his own tenement, the Gorbeau house again, Marius's neighbours are the destitute 'Jondrettes', really the Thénardiers, with Éponine, now ragged and in love with Marius. Their neglected son Gavroche lives wild on the streets. Through a hole in the wall Marius watches Thénardier and the Patron-Minette gang ambush Valjean. Javert raids; Valjean escapes."
+   },
+   {
+    "k": "story",
+    "t": "The garden in the Rue Plumet",
+    "b": "Éponine, loving Marius hopelessly, finds Cosette's address and leads him there. In the hidden garden of a house in the Rue Plumet, Marius and Cosette meet every night for weeks, innocent and ecstatic. Éponine even stops her father's gang from robbing the house. But Valjean, alarmed by warnings, decides to take Cosette to England. Marius begs his grandfather's permission to marry; Gillenormand mocks the idea and suggests he make Cosette his mistress instead. Marius storms out in despair, and returns to find the garden empty, just as Paris erupts into revolt."
+   },
+   {
+    "k": "story",
+    "t": "The barricade, June 1832",
+    "b": "At the funeral of General Lamarque, the students rise and build a barricade in the Rue de la Chanvrerie around the Corinthe wine shop. Marius joins them, wanting to die. Gavroche exposes Javert as a police spy, and he is tied up. Éponine, dressed as a boy, takes a bullet meant for Marius and dies in his arms, handing him Cosette's letter. Valjean reads Marius's farewell note to Cosette and goes to the barricade himself. Given Javert to execute, he sets him free. Gavroche is shot collecting cartridges, still singing. Enjolras falls with the rest."
+   },
+   {
+    "k": "story",
+    "t": "Through the sewers of Paris",
+    "b": "As the barricade falls, Valjean lifts the unconscious Marius and drops into the sewers. He staggers for hours through the stinking dark, nearly drowning in a pit of liquid mud, only to find the outlet locked. Thénardier, hiding there, takes him for a murderer and opens the gate for a share of the 'loot', slyly tearing a strip from Marius's coat. Outside waits Javert. Valjean asks only to carry Marius home to his grandfather. Javert agrees, then lets Valjean go. Unable to live in a world where a convict is better than the law, Javert drowns himself in the Seine."
+   },
+   {
+    "k": "story",
+    "t": "The candlesticks burn at last",
+    "b": "Marius recovers and marries Cosette in February 1833; Valjean gives her a fortune of nearly six hundred thousand francs. Then he confesses to Marius that he is an escaped convict. Marius, horrified, slowly freezes him out, and Valjean, deprived of Cosette, begins to die. Finally Thénardier tries to sell Marius the 'secret' that Valjean is a murderer, producing the torn coat strip as proof, and so reveals that Valjean was the man who carried Marius through the sewers. Marius and Cosette rush to him. He dies blessing them, lit by the Bishop's candlesticks."
+   },
+   {
+    "k": "character",
+    "t": "Jean Valjean: the saint who was a thief",
+    "b": "Valjean is Hugo's proof that a person is not their worst act. Brutalised by the galleys, then remade by one kindness, he spends his life repaying a debt to the Bishop by paying it forward: to Fantine, Cosette, Fauchelevent, even Javert. Yet he is never serene. Every good choice costs him something, and his hardest battles are with himself, not with the police."
+   },
+   {
+    "k": "character",
+    "t": "Javert: the law with a human face",
+    "b": "Javert is no simple villain. He is honest, incorruptible and brave, and he hounds Valjean because he truly believes order is the highest good and that criminals can never change. That belief is his whole identity. When Valjean spares his life, the system cracks: Javert cannot owe mercy to a convict, nor arrest the man who gave it. He chooses the river instead."
+   },
+   {
+    "k": "character",
+    "t": "The Thénardiers: evil that adapts",
+    "b": "Where Valjean changes upward, Thénardier simply changes names: innkeeper, 'Jondrette', gang boss, blackmailer, and at last a slave trader in America. He robs the dead at Waterloo, starves Cosette and exploits his own children. Hugo shows that poverty does not automatically ennoble anyone. Yet even his daughter Éponine, raised in this greed, finds her way to a selfless death."
+   },
+   {
+    "k": "theme",
+    "t": "Mercy against justice",
+    "b": "The novel stages a duel between two moral systems. Javert's law asks only what a man has done; the Bishop's grace asks what he might yet become. Hugo does not sneer at law, but he insists that rules applied without love become cruelty. Valjean's life is the experiment: given mercy instead of punishment, he gives back far more than any prison could extract."
+   },
+   {
+    "k": "theme",
+    "t": "The miserable and the society that makes them",
+    "b": "Hugo's preface says such books are needed while ignorance and poverty exist. His 'misérables' are both wretched and, in the eyes of the law, wicked: the hungry convict, the fallen mother, the street child. Again and again he shows that the crime begins with society, in starvation wages, harsh sentences and indifference, and that charity, schooling and fair work do more than prisons."
+   },
+   {
+    "k": "theme",
+    "t": "History and the single conscience",
+    "b": "Hugo sweeps from Waterloo to the 1832 uprising, the sewers and the convent, in long digressions that place small lives inside vast history. Yet the decisive battles happen inside one skull: Valjean deciding at Arras, Javert by the Seine, Marius choosing between love and loyalty. Revolutions may fail, Hugo suggests, but a single conscience turned toward good changes the world around it."
+   },
+   {
+    "k": "lesson",
+    "t": "Believe in someone before they deserve it",
+    "b": "The Bishop had every reason to call the gendarmes. Instead he handed Valjean the candlesticks too. Trust offered in advance can call out the best in a person, sometimes precisely because they know they have not earned it. Next time someone falls short, consider whether a second chance might do more than a punishment would."
+   },
+   {
+    "k": "lesson",
+    "t": "Doing right will cost you something real",
+    "b": "At Arras, Valjean could have kept his fortune, his good name and the town's prosperity simply by staying silent while an innocent man went to the galleys. He spoke anyway. Integrity is easy when it is free; the real test comes when it threatens what you have built. Decide in advance which lines you will not cross."
+   },
+   {
+    "k": "lesson",
+    "t": "Small cruelties have long consequences",
+    "b": "A gossiping forewoman dismissed Fantine for having a child, and a bored dandy pushed snow down her dress. Neither thought of themselves as cruel, yet together they helped destroy her. Casual judgment of people already struggling can be the push that sends them over. Notice when you are about to add weight to someone else's load."
+   },
+   {
+    "k": "lesson",
+    "t": "Rigid certainty can break you",
+    "b": "Javert's tragedy is not that he was wicked but that he could not update. When Valjean freed him at the barricade and gave himself up at the sewer, the evidence contradicted everything Javert believed, and he had no way to bend. Hold your principles firmly, but leave room for the possibility that a person, or you, may be wrong."
+   },
+   {
+    "k": "lesson",
+    "t": "Love sometimes means letting go",
+    "b": "Valjean's deepest fear is losing Cosette, and for a while he tries to hide her from Marius. Yet when he reads Marius's farewell letter, he walks into gunfire to save the young man who will take her away. Loving someone means wanting their happiness, even when it no longer includes you at the centre."
+   },
+   {
+    "k": "lesson",
+    "t": "Judge slowly when you know half the story",
+    "b": "Marius, learning that Valjean was a convict, pushed him out of Cosette's life, never imagining the old man had carried him through the sewers. Only Thénardier's clumsy blackmail revealed the truth, almost too late. When a revelation makes you want to cut someone off, ask what else about them you might not yet know."
+   },
+   {
+    "k": "lesson",
+    "t": "Kindness to children echoes for a lifetime",
+    "b": "A bucket carried through dark woods and an expensive doll changed Cosette's entire life, and Valjean's too. Gavroche, by contrast, ignored by his parents, still shares his bread and shelter with two lost boys. What we give the young, or deny them, shapes who they become. Look for a child near you who needs one gesture of attention."
+   },
+   {
+    "k": "reflect",
+    "t": "Something to think about today",
+    "b": "One night of unexpected kindness from the Bishop changed the whole direction of Jean Valjean's life. Can you remember a moment when someone trusted or forgave you more than you deserved? What did it make you want to become, and is there someone in your life today to whom you could offer the candlesticks?"
+   }
+  ]
  }
 ]
