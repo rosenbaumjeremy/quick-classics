@@ -3853,5 +3853,180 @@
     "b": "One night of unexpected kindness from the Bishop changed the whole direction of Jean Valjean's life. Can you remember a moment when someone trusted or forgave you more than you deserved? What did it make you want to become, and is there someone in your life today to whom you could offer the candlesticks?"
    }
   ]
+ },
+ {
+  "id": "day-22",
+  "label": "Day 22",
+  "title": "King Lear",
+  "author": "William Shakespeare",
+  "year": 1608,
+  "minutes": 10,
+  "added": "2026-11-17",
+  "cards": [
+   {
+    "k": "preview",
+    "t": "What you'll learn",
+    "b": "If you remember nothing else, remember this:",
+    "pts": [
+     {
+      "h": "Flattery is cheap; honest love often sounds cold",
+      "d": "Goneril and Regan win kingdoms with gushing speeches, while Cordelia's plain 'Nothing' costs her everything."
+     },
+     {
+      "h": "We see truly only after we lose our sight",
+      "d": "Lear learns wisdom only in madness, and Gloucester understands his sons only once his eyes are gone."
+     },
+     {
+      "h": "Power hides what a human being really needs",
+      "d": "stripped of crown, knights and shelter on the heath, Lear finally pities the 'poor naked wretches' he once ignored."
+     },
+     {
+      "h": "Love and forgiveness matter even when they cannot save us",
+      "d": "Cordelia's 'No cause, no cause' redeems Lear's last days, even though the play refuses them a happy ending."
+     }
+    ]
+   },
+   {
+    "k": "story",
+    "t": "An old king splits his kingdom",
+    "b": "Ancient, pagan Britain. Lear, a king past eighty, decides to shake off the cares of state and divide his realm among his three daughters while he still lives. Goneril is married to the mild Duke of Albany, Regan to the fierce Duke of Cornwall, and the youngest, Cordelia, is courted by the King of France and the Duke of Burgundy. Lear wants to keep the title, the honours and a retinue of a hundred knights, but none of the work. And he sets a test: the daughter who says she loves him most will get the richest share."
+   },
+   {
+    "k": "story",
+    "t": "Cordelia says 'Nothing'",
+    "b": "Goneril swears she loves her father more than eyesight, space or liberty; Regan claims every other joy is dead to her beside his love. Cordelia, disgusted by the performance, says simply that she has nothing to add: she loves him as a daughter should, no more, no less. Lear explodes, 'Nothing will come of nothing', and disowns her. The loyal Earl of Kent protests and is banished on pain of death. Burgundy drops Cordelia now she has no dowry, but France marries her for her honesty and takes her away."
+   },
+   {
+    "k": "story",
+    "t": "Edmund's forged letter",
+    "b": "A second family mirrors the first. The Earl of Gloucester has two sons: Edgar, his legitimate heir, and Edmund, born out of wedlock, whom he jokes about in public. Edmund, clever and resentful, decides that 'nature' owes him what custom denies. He forges a letter in which Edgar seems to plot their father's murder, shows it to the credulous Gloucester, then warns Edgar that their father is furious. Edgar flees for his life, and Gloucester, as rash as Lear, names Edmund his true son and heir."
+   },
+   {
+    "k": "story",
+    "t": "Goneril shows her hand",
+    "b": "Lear moves in with Goneril, his hundred knights eating and brawling through her house. Within weeks she orders her steward Oswald to treat the old man coldly and demands that Lear cut his train. Two companions now speak truth to him: Kent, returned in disguise as a servant called Caius, and the Fool, whose jokes and songs keep reminding Lear that he gave away his crown and made his daughters his mothers. Stung, Lear curses Goneril with sterility and rides off, sure that Regan will treat him kindly."
+   },
+   {
+    "k": "story",
+    "t": "'O, reason not the need'",
+    "b": "Regan and Cornwall have left home to avoid him. At Gloucester's castle Lear finds his messenger, Kent, locked in the stocks for beating Oswald, an insult to the king himself. Then Goneril arrives, and the two sisters bargain him down together: fifty knights, twenty-five, ten, five, and finally, 'What need one?' Lear answers that humans are more than beasts because they need more than they need, but his voice breaks. Refusing to weep, swearing revenge he cannot name, he rushes out into a rising storm while the doors are shut behind him."
+   },
+   {
+    "k": "story",
+    "t": "The storm on the heath",
+    "b": "On the open heath Lear rages at the thunder, ordering the winds to crack their cheeks and flatten the world. Kent and the shivering Fool lead him to a hovel, where they find Edgar, now disguised as 'Poor Tom', a naked, babbling beggar from Bedlam. Seeing him, Lear decides this is 'the thing itself', 'unaccommodated man', and tears off his own clothes. His mind gives way. Yet in the same storm he prays, for the first time, for the 'poor naked wretches' of his kingdom he had taken too little care of."
+   },
+   {
+    "k": "quote",
+    "t": "More sinned against than sinning",
+    "q": "I am a man\nMore sinned against than sinning.",
+    "b": "Lear says this in the storm (Act 3, Scene 2), and it is the play's turning point. It is half true: his daughters' cruelty far outweighs his folly. But the line is also self-pity, and the rest of the play pushes him past it, towards admitting his own blindness and asking Cordelia's forgiveness."
+   },
+   {
+    "k": "story",
+    "t": "Gloucester's kindness is betrayed",
+    "b": "Gloucester, horrified at how the king is treated, secretly brings Lear shelter and then sends him on to Dover, where Cordelia has landed with a French army to rescue her father. Gloucester confides all this to Edmund, trusting him completely. Edmund promptly reports his father to Cornwall as a traitor in league with France, calculating that he will inherit the earldom sooner. Cornwall makes Edmund Earl of Gloucester on the spot and sends him off as escort to Goneril, who is already falling for him."
+   },
+   {
+    "k": "story",
+    "t": "The blinding of Gloucester",
+    "b": "Cornwall and Regan seize Gloucester in his own house, tie him to a chair, and pluck his beard. When he admits he sent Lear to Dover, Cornwall gouges out one eye, then the other: 'Out, vile jelly!' A servant, unable to bear it, draws his sword and wounds Cornwall fatally before Regan stabs him from behind. In the dark, Gloucester calls for Edmund to avenge him. Regan tells him Edmund betrayed him. Suddenly he understands that Edgar was innocent, and she thrusts him out to 'smell his way to Dover'."
+   },
+   {
+    "k": "story",
+    "t": "Dover cliff",
+    "b": "An old tenant leads the blind man onto the heath, where they meet Poor Tom. Edgar, heartbroken, keeps his disguise and agrees to guide his father to the edge of Dover cliff, where Gloucester means to kill himself, despairing that the gods kill us like flies for sport. Instead Edgar leads him to flat ground. Gloucester kneels, blesses his son, and 'jumps', falling forward a few inches. Edgar, in a new voice, tells him he has survived a miraculous fall, and Gloucester resolves to bear his suffering patiently."
+   },
+   {
+    "k": "story",
+    "t": "Rivals for Edmund",
+    "b": "The sisters' alliance rots. Albany, disgusted by Goneril's cruelty to her father, turns against her; she despises him as a milk-livered coward. Both she and the newly widowed Regan want Edmund, who has promised himself to both. Oswald, carrying Goneril's love letter, tries to kill Gloucester for the reward and is slain by Edgar, who finds a letter urging Edmund to murder Albany. Meanwhile mad Lear, crowned with weeds, meets blind Gloucester near Dover, and in fragments of wild wisdom tells him how the world rewards the rich and punishes the poor."
+   },
+   {
+    "k": "story",
+    "t": "Lear wakes to Cordelia",
+    "b": "Cordelia's soldiers find Lear and bring him to her camp, where a doctor lets him sleep and dresses him in fresh garments. When he wakes to music, he thinks he is in hell and she is a spirit. Slowly he recognises her, kneels, and calls himself 'a very foolish fond old man', admitting she has cause to hate him. Cordelia, weeping, answers 'No cause, no cause.' It is the play's most tender moment, a reconciliation between a humbled father and the honest daughter he banished."
+   },
+   {
+    "k": "story",
+    "t": "Defeat and a secret order",
+    "b": "The British forces, led by Edmund and Albany, defeat the French army, and Lear and Cordelia are taken prisoner. Lear, astonishingly, is happy: in prison, he says, they will sing like birds in a cage, she will ask his blessing, he will ask her forgiveness, and they will outlast the great ones who ebb and flow with the moon. But Edmund, who wants no rivals to the throne he now imagines, quietly hands an officer a written order to hang Cordelia in her cell and make it look like suicide."
+   },
+   {
+    "k": "story",
+    "t": "The duel, and 'Never'",
+    "b": "Albany arrests Edmund for treason. An unknown knight answers the trumpet: Edgar, who mortally wounds his brother and reveals that Gloucester died of joy and grief when he learned who his guide had been. Goneril poisons Regan and stabs herself. Dying, Edmund repents and tries to cancel his order, too late. Lear enters carrying Cordelia's body, looking for breath on her lips: 'Never, never, never, never, never.' He dies believing, perhaps, that she stirs. Kent prepares to follow his master; Edgar is left to rule a shattered land."
+   },
+   {
+    "k": "character",
+    "t": "Lear: a king who must learn to be a man",
+    "b": "Lear begins as a magnificent baby: he wants love as public applause and rages when crossed. His tragedy is that he mistakes words for feeling and titles for identity. Stripped of both on the heath, he becomes, in madness, strangely wise, pitying beggars and seeing through justice. His final kneeling before Cordelia is the only real power he ever learns."
+   },
+   {
+    "k": "character",
+    "t": "Cordelia: the cost of honesty",
+    "b": "Cordelia refuses to turn love into a speech contest, and her stubborn plainness is both her virtue and, partly, her pride. She speaks only about a hundred lines in the whole play, yet her absence shapes everything. She returns with an army not to win a crown but to rescue a father, and forgives him without a word of reproach."
+   },
+   {
+    "k": "character",
+    "t": "Edmund: the charming villain",
+    "b": "Edmund is the play's most modern mind. Branded 'base' for an accident of birth, he worships raw nature instead of custom and simply takes what he wants. He is funny, frank with the audience and frighteningly efficient. Yet at the end, seeing that both sisters loved him, he wants to do 'some good', a flicker of what he might have been."
+   },
+   {
+    "k": "theme",
+    "t": "Sight and blindness",
+    "b": "Lear and Gloucester both 'see' badly with perfectly good eyes, trusting flatterers and banishing the children who love them. Shakespeare makes the metaphor brutally literal. Only once Gloucester is blinded can he say 'I stumbled when I saw', and only in madness does Lear see the world's injustice clearly. Insight, here, is bought with loss."
+   },
+   {
+    "k": "theme",
+    "t": "What is 'natural'?",
+    "b": "The word 'nature' runs through the play. For Lear and Gloucester it means a sacred order of duty between parents and children, kings and subjects. For Edmund it means appetite and survival of the fittest. Goneril and Regan are called 'unnatural hags', yet their cruelty feels terribly human. The play asks which nature wins when order collapses."
+   },
+   {
+    "k": "theme",
+    "t": "Nothing, and what we need",
+    "b": "'Nothing' echoes from Cordelia's first reply to the Fool's jokes about Lear's empty crown. The play keeps stripping people down: of land, knights, clothes, eyes, sanity. On the heath it asks what remains of a human being without possessions or rank, and answers that we are poor, bare, forked animals who need each other's care."
+   },
+   {
+    "k": "lesson",
+    "t": "Don't make love audition",
+    "b": "Lear turns affection into a competition and rewards the best performers. The result is a kingdom handed to the two people who love him least. When you ask the people close to you to prove their love in words or gestures, you train them to flatter. Watch instead for who shows up, quietly and repeatedly, when it costs them something."
+   },
+   {
+    "k": "lesson",
+    "t": "Listen to the person who annoys you",
+    "b": "Kent and the Fool both tell Lear the truth, one bluntly, one in riddles, and he banishes or threatens them for it. The voices that irritate us are often the only honest ones in the room. Before dismissing a critic, ask whether their worst crime is simply saying what everyone else is too careful to say."
+   },
+   {
+    "k": "lesson",
+    "t": "Don't give away power you still want to use",
+    "b": "Lear tries to hand over his kingdom while keeping a king's privileges, and is shocked when his daughters take him at his word. Whether you are retiring, delegating at work, or letting grown children run their own lives, be honest about what you are surrendering. Half-letting-go breeds resentment on both sides."
+   },
+   {
+    "k": "lesson",
+    "t": "Check the evidence before you condemn",
+    "b": "Gloucester believes a forged letter in seconds and hunts his loyal son as a murderer. He never asks to speak to Edgar, never questions the convenient informer. When a story about someone you love seems shocking, slow down and ask who benefits from your believing it. Edmund's whole career depends on people judging too quickly."
+   },
+   {
+    "k": "lesson",
+    "t": "Suffering can widen the heart",
+    "b": "Only when he is cold and soaked on the heath does Lear think of the poor who live this way every night: 'O, I have ta'en too little care of this.' Hardship need not only embitter us. Let your own bad seasons teach you about people who live in them permanently, and let that change how you use what you have."
+   },
+   {
+    "k": "lesson",
+    "t": "Rescue someone from despair gently",
+    "b": "Edgar does not lecture his suicidal father; he walks beside him, stages a small miracle, and gives him a reason to go on. When someone you love is in despair, patience and presence often help more than arguments. 'Ripeness is all,' Edgar later tells him: endure until your time comes, not before."
+   },
+   {
+    "k": "lesson",
+    "t": "Ask forgiveness while there is time",
+    "b": "Lear's kneeling 'I am a very foolish fond old man' is the bravest thing he does, and it comes almost too late. Cordelia dies hours later. If there is someone you have wronged, especially someone who told you an unwelcome truth, do not wait for a perfect moment. Say sorry while the person can still hear it."
+   },
+   {
+    "k": "reflect",
+    "t": "Something to think about today",
+    "b": "Lear could not tell the difference between people who said they loved him and the one who actually did. Think about the people in your own life: whose love is loud and whose is quiet, plain and costly? Is there a Cordelia you have overlooked or misjudged, and what could you do today to let them know you see them?"
+   }
+  ]
  }
 ]
