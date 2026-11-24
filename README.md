@@ -5,7 +5,7 @@ deployed by Cloudflare Workers Builds on every push to `main` (see `wrangler.jso
 
 ## Adding a book
 
-Append an entry to `site/data/lessons.json` (the library shows the newest first):
+Append an entry to `site/data/lessons.json` (the library lists books A–Z by title, ignoring a leading "The", "A" or "An"):
 
 ```json
 { "id": "day-2", "label": "Day 2", "title": "…", "author": "…", "year": 1900, "minutes": 7,

@@ -39,6 +39,11 @@ button:focus-visible,a:focus-visible{outline:3px solid var(--theme);outline-offs
 .shelves a{color:var(--muted);text-decoration:none;font-size:13px;font-weight:800;letter-spacing:.06em;padding:9px 16px;border-radius:999px}
 .shelves a[aria-current="page"]{background:var(--fg);color:var(--bg)}
 .shelves a:not([aria-current]):hover{color:var(--fg)}
+.search{display:flex;align-items:center;gap:10px;margin:0;padding:0 18px;height:48px;border-radius:999px;background:var(--chip);border:1px solid var(--line);color:var(--muted);max-width:520px}
+.search:focus-within{border-color:var(--fg);color:var(--fg)}
+.search svg{width:18px;height:18px;flex:none}
+.search input{flex:1;min-width:0;border:0;outline:0;background:none;color:var(--fg);font:500 15px var(--body);height:100%}
+.search input::placeholder{color:var(--muted)}
 .tile:hover{transform:translateY(-3px)}
 .tile:focus-visible{outline:3px solid var(--theme);outline-offset:3px}
 .tile::after{content:"";position:absolute;right:-50px;top:-50px;width:180px;height:180px;border-radius:50%;

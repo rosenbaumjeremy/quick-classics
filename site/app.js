@@ -26,13 +26,25 @@ function renderLibrary(s){
     const a = $("shelf-" + k);
     k === s ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current");
   }
-  const list = [...BOOKS[s]].reverse();
+  $("q").placeholder = s === "nonfiction" ? "Search non-fiction by title, author or topic" : "Search classics by title or author";
+  const q = fold($("q").value.trim());
+  const all = [...BOOKS[s]].sort((a, b) => sortKey(a.title).localeCompare(sortKey(b.title)));
+  const list = q ? all.filter(l => fold([l.title, l.subtitle, l.author, l.category].join(" ")).includes(q)) : all;
   $("grid").innerHTML = list.length ? list.map((l, i) => `<a class="tile g${i % 4}" href="#${esc(l.id)}">
       <span class="day">${esc(l.category || l.label)} · ${esc(l.minutes)} min</span>
       <h2>${esc(l.title)}</h2><span class="by">${esc(l.author)} · ${esc(yr(l.year))}</span>
       <span class="n">${l.cards.length} ideas</span></a>`).join("")
-    : '<p class="note">No books on this shelf yet.</p>';
+    : `<p class="note">${all.length ? `No books match “${esc($("q").value.trim())}”.` : "No books on this shelf yet."}</p>`;
 }
+// case- and accent-insensitive matching; titles sort A–Z ignoring a leading "The", "A" or "An"
+const fold = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const sortKey = t => fold(t).replace(/^(the|an|a)\s+/, "");
+$("q").addEventListener("input", () => renderLibrary(shelf));
+$("search").addEventListener("submit", e => { e.preventDefault(); const t = $("grid").querySelector(".tile"); if (t) t.click(); });
+document.addEventListener("keydown", e => {
+  if (e.key === "/" && !book && document.activeElement !== $("q")) { e.preventDefault(); $("q").focus(); }
+  if (e.key === "Escape" && document.activeElement === $("q")) { $("q").value = ""; renderLibrary(shelf); }
+});
 
 // ancient works store negative years for BC
 const yr = y => y < 0 ? `${-y} BC` : y < 1000 ? `AD ${y}` : y;
