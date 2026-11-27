@@ -44,6 +44,10 @@ button:focus-visible,a:focus-visible{outline:3px solid var(--theme);outline-offs
 .search svg{width:18px;height:18px;flex:none}
 .search input{flex:1;min-width:0;border:0;outline:0;background:none;color:var(--fg);font:500 15px var(--body);height:100%}
 .search input::placeholder{color:var(--muted)}
+.sort{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-top:-10px}
+.sort span{font-size:12px;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:var(--muted);margin-right:4px}
+.sort button{border:1px solid var(--line);background:var(--chip);color:var(--fg);border-radius:999px;height:34px;padding:0 15px;font:700 13px var(--body);cursor:pointer}
+.sort button[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
 .tile:hover{transform:translateY(-3px)}
 .tile:focus-visible{outline:3px solid var(--theme);outline-offset:3px}
 .tile::after{content:"";position:absolute;right:-50px;top:-50px;width:180px;height:180px;border-radius:50%;

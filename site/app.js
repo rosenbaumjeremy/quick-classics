@@ -28,7 +28,11 @@ function renderLibrary(s){
   }
   $("q").placeholder = s === "nonfiction" ? "Search non-fiction by title, author or topic" : "Search classics by title or author";
   const q = fold($("q").value.trim());
-  const all = [...BOOKS[s]].sort((a, b) => sortKey(a.title).localeCompare(sortKey(b.title)));
+  document.querySelectorAll("#sort button").forEach(b => b.setAttribute("aria-pressed", b.dataset.sort === SORT));
+  // "latest": newest "added" date first (same day: later in the file = newer); "alpha": A–Z by title
+  const all = SORT === "latest"
+    ? BOOKS[s].map((l, i) => ({l, i})).sort((a, b) => (b.l.added || "").localeCompare(a.l.added || "") || b.i - a.i).map(x => x.l)
+    : [...BOOKS[s]].sort((a, b) => sortKey(a.title).localeCompare(sortKey(b.title)));
   const list = q ? all.filter(l => fold([l.title, l.subtitle, l.author, l.category].join(" ")).includes(q)) : all;
   $("grid").innerHTML = list.length ? list.map((l, i) => `<a class="tile g${i % 4}" href="#${esc(l.id)}">
       <span class="day">${esc(l.category || l.label)} · ${esc(l.minutes)} min</span>
@@ -40,6 +44,14 @@ function renderLibrary(s){
 const fold = s => String(s).normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 const sortKey = t => fold(t).replace(/^(the|an|a)\s+/, "");
 $("q").addEventListener("input", () => renderLibrary(shelf));
+// library sort order, remembered on this device
+let SORT = "alpha";
+try { if (localStorage.getItem("qc-sort") === "latest") SORT = "latest"; } catch(e) {}
+document.querySelectorAll("#sort button").forEach(b => b.onclick = () => {
+  SORT = b.dataset.sort;
+  try { localStorage.setItem("qc-sort", SORT); } catch(e) {}
+  renderLibrary(shelf);
+});
 $("search").addEventListener("submit", e => { e.preventDefault(); const t = $("grid").querySelector(".tile"); if (t) t.click(); });
 document.addEventListener("keydown", e => {
   if (e.key === "/" && !book && document.activeElement !== $("q")) { e.preventDefault(); $("q").focus(); }
