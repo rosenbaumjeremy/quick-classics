@@ -5818,5 +5818,180 @@
     "b": "Tolstoy believed that history is made not by emperors but by countless ordinary choices: a soldier who stands firm, a girl who unloads a cart, a peasant who shares his potato. Your day is part of that great current too. What small choice will you make today that, multiplied across many people, would make the world a little better?"
    }
   ]
+ },
+ {
+  "id": "day-33",
+  "label": "Day 33",
+  "title": "Othello",
+  "author": "William Shakespeare",
+  "year": 1622,
+  "minutes": 10,
+  "added": "2026-11-28",
+  "cards": [
+   {
+    "k": "preview",
+    "t": "What you'll learn",
+    "b": "If you remember nothing else, remember this:",
+    "pts": [
+     {
+      "h": "Jealousy feeds on suggestion, not proof",
+      "d": "Iago supplies only hints and a dropped handkerchief; Othello's own imagination builds the case against Desdemona."
+     },
+     {
+      "h": "The most dangerous liar seems honest",
+      "d": "everyone calls Iago honest, and he ruins them by giving sensible advice with poison hidden inside."
+     },
+     {
+      "h": "Prejudice can become self-doubt",
+      "d": "Venice's contempt for the Moor becomes Othello's own belief that no white wife could truly love him."
+     },
+     {
+      "h": "Truth needs someone willing to speak",
+      "d": "one direct question would have saved Desdemona; Emilia's late courage exposes Iago, but at the cost of her life."
+     }
+    ]
+   },
+   {
+    "k": "story",
+    "t": "Venice, a city that needs an outsider",
+    "b": "Venice, around 1570, a rich merchant republic at war with the Ottoman Turks over Cyprus. Its best general is Othello, a Moor: a Black African soldier, Christian by conversion, admired for his courage and dignity but never quite one of the Venetian nobles who employ him. The city depends on his sword while its senators keep their daughters for their own kind. That tension, between public honour and private prejudice, is the gunpowder of the play. Shakespeare needs only one man to light it."
+   },
+   {
+    "k": "story",
+    "t": "Iago's grudge in the dark street",
+    "b": "The play opens at night. Iago, Othello's ensign, is furious: Othello has promoted Michael Cassio, a polished Florentine with more theory than battle experience, to be his lieutenant. Iago tells his gullible companion Roderigo, a rich Venetian who is paying him to help win a lady, \"I follow him to serve my turn upon him.\" He will pretend loyalty while plotting ruin. His first move is to tell Roderigo that the lady he wants, Desdemona, has just secretly married Othello."
+   },
+   {
+    "k": "story",
+    "t": "Waking the father with filth",
+    "b": "Iago and Roderigo stand beneath the windows of Brabantio, a Venetian senator and Desdemona's father, and shout the news in the crudest racial language: \"an old black ram / Is tupping your white ewe.\" Brabantio, horrified, rouses his household and goes hunting for Othello with weapons. Iago slips away so that he will be found standing loyally at his general's side. Already we see his method: he says the ugly thing everyone half thinks, then lets others act on it."
+   },
+   {
+    "k": "story",
+    "t": "A marriage defended before the Senate",
+    "b": "Brabantio accuses Othello before the Duke and Senate of bewitching his daughter with drugs and spells. Othello calmly explains: he visited Brabantio's house and told stories of his life, slavery, battles, cannibals, and Desdemona listened. \"She loved me for the dangers I had passed, / And I loved her that she did pity them.\" Desdemona herself enters and declares her duty now belongs to her husband. The Senate, needing its general against the Turks, approves the match. Brabantio warns ominously: she deceived her father, and may deceive you."
+   },
+   {
+    "k": "story",
+    "t": "Cyprus, a storm, and a plan",
+    "b": "Othello is sent to defend Cyprus; Desdemona insists on going with him. A storm scatters the Turkish fleet, so the war ends before it begins, leaving soldiers idle on an island far from Venice's laws. Cassio arrives first and greets Desdemona with courtly gallantry, kissing Iago's wife Emilia and taking Desdemona's hand. Iago, watching, says in an aside, \"With as little a web as this will I ensnare as great a fly as Cassio.\" He alone tells us his motives, and they shift: envy, suspected cuckoldry, plain hatred."
+   },
+   {
+    "k": "story",
+    "t": "Cassio's drunken disgrace",
+    "b": "On the night of celebration, Iago gets Cassio, who cannot hold his drink, drunk on watch. He sets Roderigo to provoke him. Cassio brawls, wounds the former governor Montano, and the town bell rings in alarm. Othello, roused from his wedding night, demands the truth; Iago, pretending reluctance to blame a friend, tells it in the most damaging way. Othello strips Cassio of his rank. Cassio mourns, \"Reputation, reputation, reputation! O, I have lost my reputation!\" Iago, still trusted as \"honest Iago,\" offers him advice."
+   },
+   {
+    "k": "story",
+    "t": "Good advice with poison inside",
+    "b": "Iago tells Cassio to ask Desdemona to plead for him, since she is kind and Othello can refuse her nothing. It is sensible advice, and that is the trick. In soliloquy Iago explains the double plan: while Desdemona pleads for Cassio, Iago will whisper to Othello that she pleads out of lust. \"So will I turn her virtue into pitch, / And out of her own goodness make the net / That shall enmesh them all.\" Desdemona, generous and fearless, promises Cassio she will not rest until he is restored."
+   },
+   {
+    "k": "story",
+    "t": "The temptation scene",
+    "b": "The play's great central scene. Cassio leaves Desdemona just as Othello approaches, and Iago murmurs, \"Ha! I like not that.\" Then, with hesitations and hints, he lets Othello drag the suspicion out of him, as if unwillingly. He reminds Othello that Desdemona deceived her father, that Venetian women are sly, that a match across race and age is \"unnatural\". Othello's confidence cracks; he begins to see himself as an old, Black stranger who could never truly be loved. By the scene's end he kneels and vows revenge, and makes Iago his lieutenant."
+   },
+   {
+    "k": "quote",
+    "t": "The monster that feeds on itself",
+    "q": "O, beware, my lord, of jealousy; / It is the green-eyed monster which doth mock / The meat it feeds on.",
+    "b": "Iago speaks this in the temptation scene, warning Othello against the very poison he is pouring into him. The image is exact: jealousy devours the mind that hosts it, and needs no real evidence to grow. From this moment Othello's fall is under way, and the villain has done it by seeming to advise caution."
+   },
+   {
+    "k": "story",
+    "t": "The handkerchief",
+    "b": "Othello's first gift to Desdemona was a handkerchief embroidered with strawberries, which he says an Egyptian charmer gave his mother; losing it brings disaster. When Othello complains of a headache, Desdemona tries to bind his forehead with it, he pushes it away, and it falls. Emilia picks it up and, wanting to please her cold husband, gives it to Iago. Iago plants it in Cassio's lodging. Cassio, admiring the needlework, gives it to his mistress Bianca to copy. A scrap of cloth becomes the play's fatal proof."
+   },
+   {
+    "k": "story",
+    "t": "Ocular proof",
+    "b": "Othello demands \"ocular proof\" and threatens Iago if he cannot supply it. Iago offers instead a lie that Cassio talked of Desdemona in his sleep, and claims he saw Cassio wipe his beard with the handkerchief. When Othello asks Desdemona for it, she cannot produce it and, innocently, keeps pleading for Cassio. Later Iago stages a scene: Othello hides and watches Cassio laughing about Bianca, believing he is mocking Desdemona. Then Bianca storms in and throws the handkerchief back. For Othello, it is proof enough."
+   },
+   {
+    "k": "story",
+    "t": "A general undone in public",
+    "b": "Othello's language, once so musical, breaks into fragments; he falls into an epileptic fit while Iago gloats. When the nobleman Lodovico arrives from Venice with orders recalling Othello and naming Cassio governor, Othello strikes Desdemona in front of him. Lodovico is stunned: is this the noble Moor the Senate trusted? Othello questions Emilia, who swears Desdemona is honest, then calls his wife a whore to her face. Desdemona, bewildered, turns for comfort to the very man destroying her: she asks Iago how to win her husband back."
+   },
+   {
+    "k": "story",
+    "t": "The willow song",
+    "b": "That night, preparing for bed as Othello has ordered, Desdemona sings a sad song learned from her mother's maid, Barbary, who died of a forsaken love. She asks Emilia whether women really betray their husbands. Emilia, worldly and frank, answers that some would, for the whole world, and that husbands who cheat and strike teach wives to do the same. Desdemona cannot imagine it. Meanwhile Iago sets Roderigo to ambush Cassio in the street. Cassio is wounded; Iago secretly stabs Roderigo dead to silence him."
+   },
+   {
+    "k": "story",
+    "t": "The murder and the truth",
+    "b": "Othello enters the bedchamber with a candle, kisses the sleeping Desdemona, and tells her to pray. She pleads her innocence; he smothers her in her bed. Emilia bursts in, and Desdemona, briefly reviving, tries to shield her husband, saying she killed herself. Then Emilia learns of the handkerchief and cries out the truth, defying Iago's command to be silent. Iago stabs his wife and flees, is captured, and refuses to explain: \"From this time forth I never will speak word.\" Othello, recalling his service to Venice, stabs himself and dies on Desdemona's body."
+   },
+   {
+    "k": "character",
+    "t": "Othello: noble, isolated, exposed",
+    "b": "Othello is a great soldier with a poet's tongue, utterly at home on a battlefield and lost in the subtleties of Venetian social life. His tragedy is not that he is naturally jealous, but that he half believes the city's prejudices about himself. Once Iago makes him doubt his own lovability, his trust collapses into absolute certainty, and certainty is his undoing."
+   },
+   {
+    "k": "character",
+    "t": "Iago: the honest villain",
+    "b": "Iago is the longest part in the play and its engine. He offers reasons, envy of Cassio, rumours about Emilia, but none quite explains him; Coleridge called it \"motive-hunting of a motiveless malignity.\" His gift is reading people: he uses Othello's insecurity, Cassio's courtesy, Roderigo's greed, Desdemona's kindness. Everyone calls him honest, which is exactly his disguise."
+   },
+   {
+    "k": "character",
+    "t": "Desdemona and Emilia: two kinds of courage",
+    "b": "Desdemona is not a passive victim; she defies her father and the Senate for love and speaks boldly for Cassio. Her fault, if any, is innocence: she cannot imagine evil. Emilia is her opposite, sceptical and earthy, and makes the one small betrayal that dooms her mistress. Yet at the end she is the play's bravest voice, telling the truth that costs her life."
+   },
+   {
+    "k": "theme",
+    "t": "Jealousy needs no evidence",
+    "b": "Othello shows that jealousy is less a reaction to facts than a story the mind tells itself. Iago never produces real proof; he supplies suggestions, a dropped handkerchief, an overheard laugh, and Othello's imagination does the rest. As Emilia says, the jealous are not jealous for a cause, \"but jealous for they're jealous.\" The monster breeds itself."
+   },
+   {
+    "k": "theme",
+    "t": "Race, otherness, and belonging",
+    "b": "Venice honours Othello's service but not his person: the first act is full of insults about lips, rams and devils. Iago's genius is to turn that background prejudice into Othello's own voice, so that he reads his marriage as \"unnatural\" too. The play asks how much of a person's self-image is built from the contempt others carry around them."
+   },
+   {
+    "k": "theme",
+    "t": "Seeming and being",
+    "b": "Almost nothing in Othello is what it appears. The honest man is a liar, the faithful wife is called a whore, the courteous lieutenant looks like a seducer, and a love token becomes evidence of adultery. Iago announces it in the first scene: \"I am not what I am.\" Reputation, the thing everyone guards so fiercely, turns out to be the easiest thing to forge."
+   },
+   {
+    "k": "lesson",
+    "t": "Ask for evidence, not interpretation",
+    "b": "Othello demands ocular proof, then accepts a dream reported secondhand and a laugh he could not hear. When someone brings you a damaging story about a person you love, separate what was actually seen from what you are being told it means. Iago's power lies entirely in the gap between the two."
+   },
+   {
+    "k": "lesson",
+    "t": "Go to the source",
+    "b": "Othello never simply asks Cassio about the handkerchief, nor listens patiently to Desdemona. A single direct conversation would have unravelled the whole plot. When a suspicion forms, speak to the person concerned before you speak to the person who planted it. Middlemen with an interest in your anger rarely want the truth told."
+   },
+   {
+    "k": "lesson",
+    "t": "Beware the friend who feeds your fears",
+    "b": "Iago wins Othello by seeming reluctant, by saying \"I would not\" and \"perhaps\" and \"beware of jealousy.\" Notice who in your life only ever confirms your worst feelings about other people. Real friends calm you down, question your story and protect your relationships; flatterers of your fears quietly profit from them."
+   },
+   {
+    "k": "lesson",
+    "t": "Don't let others write your self-image",
+    "b": "Othello falls when he starts to believe he is too old, too Black and too rough to be loved. Iago did not invent that idea; Venice had been whispering it for years. Notice the voices, cultural or personal, that tell you what someone like you deserves, and test them against the actual people who chose you."
+   },
+   {
+    "k": "lesson",
+    "t": "Reputation is fragile, character is not",
+    "b": "Cassio wails that he has lost his reputation after one drunken night, and Iago, of all people, shrugs that reputation is \"an idle and most false imposition.\" Both are half right. Guard your good name, but do not let your sense of worth depend on it, or a single rumour can unmake you."
+   },
+   {
+    "k": "lesson",
+    "t": "Small compliances can do great harm",
+    "b": "Emilia hands over the handkerchief to please a sulky husband, thinking it harmless. It becomes the instrument of murder. Doing something slightly wrong because someone you want to please asks for it is how many disasters begin. Ask what a request is for before you grant it, especially when the asker will not say."
+   },
+   {
+    "k": "lesson",
+    "t": "Speaking up late still matters",
+    "b": "Emilia's silence helped cause the tragedy, but her final outburst, \"I will not charm my tongue; I am bound to speak,\" exposes Iago and clears Desdemona's name. It costs her life. Truth told late cannot undo every harm, but it can stop the lie from winning. It is rarely too late to say what you know."
+   },
+   {
+    "k": "reflect",
+    "t": "Something to think about today",
+    "b": "Iago never gives Othello a single fact, only a frame for reading ordinary things: a conversation, a kind word, a lost handkerchief. Is there someone you are reading through a frame another person handed you? What would you see if you asked them directly, today, instead of interpreting from a distance?"
+   }
+  ]
  }
 ]
